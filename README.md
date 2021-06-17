@@ -12,7 +12,7 @@ Premier pas sur le projet:
 
 1) cloner le repo brief-foot
 - git clone https://github.com/clement-camara/brief-foot
-3) récupérer l'environnement de travail conda avec le fichier .yml:
+2) récupérer l'environnement de travail conda avec le fichier .yml:
 - conda env create -f environment.yml
 - conda activate environnement
 Si d'autres dépendances sont ajoutées/supprimées , mettre à jour le .yml à l'aide de la commande
