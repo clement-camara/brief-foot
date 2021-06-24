@@ -1,0 +1,37 @@
+thisdict = {
+  "Lille": "nord-pas-de-calais",
+  "Paris-SG": "ile-de-france",
+  "Monaco": 'provence-alpes-c-te-d-azur',
+  "Lyon": "rh-ne-alpes",
+  "Marseille": "provence-alpes-c-te-d-azur",
+  "Rennes": 'bretagne',
+  "Lens": "nord-pas-de-calais",
+  "Montpellier": "languedoc-roussillon",
+  "Nice": 'provence-alpes-c-te-d-azur',
+  "Metz": "lorraine",
+  "Saint-Étienne": "rh-ne-alpes",
+  "Bordeaux": 'aquitaine',
+  "Angers": "pays-de-la-loire",
+  "Reims": "champagne-ardenne",
+  "Strasbourg": 'alsace',
+  "Lorient": "bretagne",
+  "Brest": "bretagne",
+  "Nantes": "pays-de-la-loire",
+  "Nîmes": 'languedoc-roussillon',
+  "Dijon": 'bourgogne',
+}
+
+months = {
+    "janvier": "01",
+    "février": "02",
+    "mars": "03",
+    "avril": "04",
+    "mai": "05",
+    "juin": "06",
+    "juillet": "07",
+    "aout": "08",
+    "septembre": "09",
+    "octobre": "10",
+    "novembre": "11",
+    "decembre": "12"
+}
