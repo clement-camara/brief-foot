@@ -27,3 +27,13 @@ def scrapp_teams():
         dfs = pd.read_html(f'https://www.lequipe.fr{lien}')
         list_dfs.append(dfs)
     return list_dfs
+
+
+def scrapp_rank():
+    '''Récupère le classement global du championnat
+    Retourne un dataframe avec le nombre de points par équipe'''
+    df_classement = pd.read_html(
+        'https://www.lequipe.fr/Football/ligue-1/saison-2020-2021/page-classement-equipes/general')[0]
+    df_classement = df_classement.rename(columns={'Unnamed: 1': 'Equipe'})
+    df_rank = df_classement[['Equipe', 'pts']]
+    return df_rank
