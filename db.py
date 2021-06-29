@@ -121,6 +121,6 @@ for championship in range(len(df_championships)):
 championships_dict
 
 # map colonne avec dictionnaire des ids
-df_teams['championship_id'] = df_teams['championship'].map(championships_dict)
-df_teams
+# df_teams['championship_id'] = df_teams['championship'].map(championships_dict)
+# df_teams
 
