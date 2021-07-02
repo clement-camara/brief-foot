@@ -1,0 +1,1050 @@
+,buteurs,dates,match_places,minute,penalty,own_goal,full_name
+0,"['22’', 'I.', 'Traoré']",22-Août-2020,Dijon,22,,,ITraoré
+1,"['J.', 'Bamba', '40’']",22-Août-2020,Lille,40,,,JBamba
+2,"['74’', 'D.', 'Da', 'Silva']",22-Août-2020,Lille,74,,,DDaSilva
+3,"['A.', 'Disasi', '45’', '+2']",23-Août-2020,Monaco,452,,,ADisasi
+4,"['B.', 'Badiashile', '55’']",23-Août-2020,Monaco,55,,,BBadiashile
+5,"['05’', 'B.', 'Dia']",23-Août-2020,Monaco,5,,,BDia
+6,"['21’', 'E.', 'Touré']",23-Août-2020,Monaco,21,,,ETouré
+7,"['Y.', 'Wissa', '51’']",23-Août-2020,Lorient,51,,,YWissa
+8,"['(s.p.)', 'A.', 'Grbic', '60’']",23-Août-2020,Lorient,60,(s.p.),,spAGrbic
+9,"['P.', 'Hamel', '87’']",23-Août-2020,Lorient,87,,,PHamel
+10,"['30’', 'M.', 'Chahiri']",23-Août-2020,Lorient,30,,,MChahiri
+11,"['K.', 'Denkey', '08’']",23-Août-2020,Nîmes,8,,,KDenkey
+12,"['B.', 'Meling', '31’']",23-Août-2020,Nîmes,31,,,BMeling
+13,"['R.', 'Philippoteaux', '69’']",23-Août-2020,Nîmes,69,,,RPhilippoteaux
+14,"['M.', 'Koné', '84’']",23-Août-2020,Nîmes,84,,,MKoné
+15,"['A.', 'Gouiri', '23’']",23-Août-2020,Nice,23,,,AGouiri
+16,"['A.', 'Gouiri', '75’']",23-Août-2020,Nice,75,,,AGouiri
+17,"['11’', 'G.', 'Kakuta', '(s.p.)']",23-Août-2020,Nice,11,(s.p.),,GKakutasp
+18,"['(s.p.)', 'T.', 'Savanier', '38’']",15-Septembre-2020,Montpellier,38,(s.p.),,spTSavanier
+19,"['T.', 'Savanier', '59’']",15-Septembre-2020,Montpellier,59,,,TSavanier
+20,"['82’', 'M.', 'Depay', '(s.p.)']",15-Septembre-2020,Montpellier,82,(s.p.),,MDepaysp
+21,"['J.', 'Draxler', '90’', '+3']",16-Septembre-2020,Paris-SG,903,,,JDraxler
+22,"['06’', 'R.', 'Hamouma']",17-Septembre-2020,Marseille,6,,,RHamouma
+23,"['75’', 'D.', 'Bouanga']",17-Septembre-2020,Marseille,75,,,DBouanga
+24,"['(s.p.)', 'M.', 'Depay', '39’']",28-Août-2020,Lyon,39,(s.p.),,spMDepay
+25,"['(csc)', 'W.', 'Lautoa', '45’']",28-Août-2020,Lyon,45,,(csc),cscWLautoa
+26,"['M.', 'Depay', '45’', '+1']",28-Août-2020,Lyon,451,,,MDepay
+27,"['(s.p.)', 'M.', 'Depay', '66’']",28-Août-2020,Lyon,66,(s.p.),,spMDepay
+28,"['14’', 'A.', 'Scheidler']",28-Août-2020,Lyon,14,,,AScheidler
+29,"['(csc)', 'D.', 'Le', 'Tallec', '22’']",29-Août-2020,Rennes,22,,(csc),cscDLeTallec
+30,"['E.', 'Camavinga', '77’']",29-Août-2020,Rennes,77,,,ECamavinga
+31,"['90’', '+1', 'G.', 'Laborde']",29-Août-2020,Rennes,901,,,GLaborde
+32,"['37’', 'K.', 'Dolberg', '(s.p.)']",29-Août-2020,Strasbourg,37,(s.p.),,KDolbergsp
+33,"['59’', 'K.', 'Dolberg']",29-Août-2020,Strasbourg,59,,,KDolberg
+34,"['32’', 'J.', 'Bamba']",30-Août-2020,Reims,32,,,JBamba
+35,"['A.', 'Girotto', '11’']",30-Août-2020,Nantes,11,,,AGirotto
+36,"['(s.p.)', 'I.', 'Louza', '27’']",30-Août-2020,Nantes,27,(s.p.),,spILouza
+37,"['57’', 'Z.', 'Ferhat']",30-Août-2020,Nantes,57,,,ZFerhat
+38,"['R.', 'Hamouma', '19’']",30-Août-2020,Saint-Étienne,19,,,RHamouma
+39,"['R.', 'Hamouma', '51’']",30-Août-2020,Saint-Étienne,51,,,RHamouma
+40,"['25’', 'J.', 'Maja']",30-Août-2020,Angers,25,,,JMaja
+41,"['27’', 'T.', 'Basic']",30-Août-2020,Angers,27,,,TBasic
+42,"['22’', 'B.', 'Badiashile']",30-Août-2020,Metz,22,,,BBadiashile
+43,"['R.', 'Faivre', '45’', '+1']",30-Août-2020,Brest,451,,,RFaivre
+44,"['G.', 'Charbonnier', '89’']",30-Août-2020,Brest,89,,,GCharbonnier
+45,"['19’', 'F.', 'Thauvin']",30-Août-2020,Brest,19,,,FThauvin
+46,"['27’', 'D.', 'Caleta-Car']",30-Août-2020,Brest,27,,,DCaletaCar
+47,"['80’', 'D.', 'Caleta-Car']",30-Août-2020,Brest,80,,,DCaletaCar
+48,"['I.', 'Ganago', '57’']","10-Septembre-2020,",Lens,57,,,IGanago
+49,"['G.', 'Laborde', '18’']",12-Septembre-2020,Montpellier,18,,,GLaborde
+50,"['D.', 'Congré', '50’']",12-Septembre-2020,Montpellier,50,,,DCongré
+51,"['D.', 'Congré', '64’']",12-Septembre-2020,Montpellier,64,,,DCongré
+52,"['69’', 'Dante']",12-Septembre-2020,Montpellier,69,,,Dante
+53,"['(s.p.)', 'D.', 'Bouanga', '57’']",12-Septembre-2020,Saint-Étienne,57,(s.p.),,spDBouanga
+54,"['M.', 'Camara', '82’']",12-Septembre-2020,Saint-Étienne,82,,,MCamara
+55,"['L.', 'Araujo', '88’']",13-Septembre-2020,Lille,88,,,LAraujo
+56,"['A.', 'Cubas', '37’']",13-Septembre-2020,Nîmes,37,,,ACubas
+57,"['Z.', 'Ferhat', '55’']",13-Septembre-2020,Nîmes,55,,,ZFerhat
+58,"['12’', 'S.', 'Guirassy']",13-Septembre-2020,Nîmes,12,,,SGuirassy
+59,"['39’', 'S.', 'Guirassy']",13-Septembre-2020,Nîmes,39,,,SGuirassy
+60,"['73’', 'N.', 'Aguerd']",13-Septembre-2020,Nîmes,73,,,NAguerd
+61,"['90’', '+7', 'B.', 'Bourigeaud']",13-Septembre-2020,Nîmes,907,,,BBourigeaud
+62,"['A.', 'Grbic', '14’']",13-Septembre-2020,Lorient,14,,,AGrbic
+63,"['(s.p.)', 'Y.', 'Wissa', '90’', '+3']",13-Septembre-2020,Lorient,903,(s.p.),,spYWissa
+64,"['32’', 'G.', 'Kakuta', '(s.p.)']",13-Septembre-2020,Lorient,32,(s.p.),,GKakutasp
+65,"['34’', 'F.', 'Medina']",13-Septembre-2020,Lorient,34,,,FMedina
+66,"['63’', 'I.', 'Ganago']",13-Septembre-2020,Lorient,63,,,IGanago
+67,"['S.', 'Bahoken', '55’']",13-Septembre-2020,Angers,55,,,SBahoken
+68,"['42’', 'R.', 'Perraud']",13-Septembre-2020,Dijon,42,,,RPerraud
+69,"['90’', '+5', 'I.', 'Cardona']",13-Septembre-2020,Dijon,905,,,ICardona
+70,"['S.', 'Diop', '05’']",13-Septembre-2020,Monaco,5,,,SDiop
+71,"['W.', 'Geubbels', '65’']",13-Septembre-2020,Monaco,65,,,WGeubbels
+72,"['61’', 'L.', 'Blas']",13-Septembre-2020,Monaco,61,,,LBlas
+73,"['31’', 'F.', 'Thauvin']",13-Septembre-2020,Paris-SG,31,,,FThauvin
+74,"['I.', 'Ganago', '47’']",19-Septembre-2020,Lens,47,,,IGanago
+75,"['(s.p.)', 'G.', 'Kakuta', '59’']",19-Septembre-2020,Lens,59,(s.p.),,spGKakuta
+76,"['90’', '+5', 'S.', 'Kalu']",19-Septembre-2020,Lens,905,,,SKalu
+77,"['S.', 'Nzonzi', '81’']",19-Septembre-2020,Rennes,81,,,SNzonzi
+78,"['A.', 'Truffert', '90’', '+1']",19-Septembre-2020,Rennes,901,,,ATruffert
+79,"['28’', 'W.', 'Ben', 'Yedder']",19-Septembre-2020,Rennes,28,,,WBenYedder
+80,"['38’', 'K.', 'Mbappé', '(s.p.)']",20-Septembre-2020,Nice,38,(s.p.),,KMbappésp
+81,"['45’', '+1', 'A.', 'Di', 'Maria']",20-Septembre-2020,Nice,451,,,ADiMaria
+82,"['66’', 'Marquinhos']",20-Septembre-2020,Nice,66,,,Marquinhos
+83,"['A.', 'Souquet', '18’']",20-Septembre-2020,Montpellier,18,,,ASouquet
+84,"['A.', 'Delort', '44’']",20-Septembre-2020,Montpellier,44,,,ADelort
+85,"['A.', 'Delort', '60’']",20-Septembre-2020,Montpellier,60,,,ADelort
+86,"['F.', 'Mollet', '86’']",20-Septembre-2020,Montpellier,86,,,FMollet
+87,"['25’', 'S.', 'Bahoken']",20-Septembre-2020,Montpellier,25,,,SBahoken
+88,"['R.', 'Perraud', '30’']",20-Septembre-2020,Brest,30,,,RPerraud
+89,"['S.', 'Mounié', '32’']",20-Septembre-2020,Brest,32,,,SMounié
+90,"['F.', 'Honorat', '62’']",20-Septembre-2020,Brest,62,,,FHonorat
+91,"['34’', 'C.', 'Hérelle', '(csc)']",20-Septembre-2020,Brest,34,,(csc),CHérellecsc
+92,"['90’', '+2', 'T.', 'Monconduit']",20-Septembre-2020,Brest,902,,,TMonconduit
+93,"['I.', 'Niane', '18’']",20-Septembre-2020,Metz,18,,,INiane
+94,"['I.', 'Niane', '88’']",20-Septembre-2020,Metz,88,,,INiane
+95,"['43’', 'B.', 'Dia', '(s.p.)']",20-Septembre-2020,Metz,43,(s.p.),,BDiasp
+96,"['S.', 'Mitrovic', '80’']",20-Septembre-2020,Strasbourg,80,,,SMitrovic
+97,"['M.', 'Simon', '71’']",20-Septembre-2020,Nantes,71,,,MSimon
+98,"['R.', 'Emond', '85’']",20-Septembre-2020,Nantes,85,,,REmond
+99,"['02’', 'A.', 'Aouchiche']",20-Septembre-2020,Nantes,2,,,AAouchiche
+100,"['66’', 'Y.', 'Maçon']",20-Septembre-2020,Nantes,66,,,YMaçon
+101,"['V.', 'Germain', '85’']",20-Septembre-2020,Marseille,85,,,VGermain
+102,"['47’', 'L.', 'Araujo']",20-Septembre-2020,Marseille,47,,,LAraujo
+103,"['(csc)', 'N.', 'Pallois', '43’']",25-Septembre-2020,Lille,43,,(csc),cscNPallois
+104,"['(s.p.)', 'B.', 'Yilmaz', '87’']",25-Septembre-2020,Lille,87,(s.p.),,spBYilmaz
+105,"['33’', 'N.', 'Aguerd']",26-Septembre-2020,Saint-Étienne,33,,,NAguerd
+106,"['52’', 'S.', 'Guirassy']",26-Septembre-2020,Saint-Étienne,52,,,SGuirassy
+107,"['89’', 'A.', 'Hunou']",26-Septembre-2020,Saint-Étienne,89,,,AHunou
+108,"['M.', 'Sanson', '90’', '+5']",26-Septembre-2020,Marseille,905,,,MSanson
+109,"['71’', 'I.', 'Niane']",26-Septembre-2020,Marseille,71,,,INiane
+110,"['E.', 'Dina', 'Ebimbe', '08’']",27-Septembre-2020,Dijon,8,,,EDinaEbimbe
+111,"['B.', 'Ecuele', 'Manga', '60’']",27-Septembre-2020,Dijon,60,,,BEcueleManga
+112,"['50’', 'A.', 'Delort']",27-Septembre-2020,Dijon,50,,,ADelort
+113,"['90’', 'T.', 'Savanier', '(s.p.)']",27-Septembre-2020,Dijon,90,(s.p.),,TSavaniersp
+114,"['Z.', 'Ferhat', '87’']",27-Septembre-2020,Nîmes,87,,,ZFerhat
+115,"['34’', 'I.', 'Ganago']",27-Septembre-2020,Nîmes,34,,,IGanago
+116,"['W.', 'Ben', 'Yedder', '09’']",27-Septembre-2020,Monaco,9,,,WBenYedder
+117,"['R.', 'Aguilar', '45’', '+2']",27-Septembre-2020,Monaco,452,,,RAguilar
+118,"['W.', 'Ben', 'Yedder', '53’']",27-Septembre-2020,Monaco,53,,,WBenYedder
+119,"['46’', 'M.', 'Chahiri']",27-Septembre-2020,Monaco,46,,,MChahiri
+120,"['70’', 'L.', 'Ajorque', '(s.p.)']",27-Septembre-2020,Monaco,70,(s.p.),,LAjorquesp
+121,"['S.', 'Thioub', '22’']",27-Septembre-2020,Angers,22,,,SThioub
+122,"['I.', 'Traoré', '78’']",27-Septembre-2020,Angers,78,,,ITraoré
+123,"['A.', 'Fulgini', '80’']",27-Septembre-2020,Angers,80,,,AFulgini
+124,"['03’', 'S.', 'Mounié', '(s.p.)']",27-Septembre-2020,Angers,3,(s.p.),,SMouniésp
+125,"['33’', 'G.', 'Charbonnier']",27-Septembre-2020,Angers,33,,,GCharbonnier
+126,"['Y.', 'Wissa', '63’']",27-Septembre-2020,Lorient,63,,,YWissa
+127,"['74’', 'L.', 'Dubois']",27-Septembre-2020,Lorient,74,,,LDubois
+128,"['09’', 'M.', 'Icardi']",27-Septembre-2020,Reims,9,,,MIcardi
+129,"['63’', 'M.', 'Icardi']",27-Septembre-2020,Reims,63,,,MIcardi
+130,"['A.', 'Florenzi', '07’']",02-Octobre-2020,Paris-SG,7,,,AFlorenzi
+131,"['Neymar', '36’']",02-Octobre-2020,Paris-SG,36,,,Neymar
+132,"['Neymar', '47’']",02-Octobre-2020,Paris-SG,47,,,Neymar
+133,"['J.', 'Draxler', '57’']",02-Octobre-2020,Paris-SG,57,,,JDraxler
+134,"['I.', 'Gueye', '71’']",02-Octobre-2020,Paris-SG,71,,,IGueye
+135,"['K.', 'Mbappé', '84’']",02-Octobre-2020,Paris-SG,84,,,KMbappé
+136,"['53’', 'I.', 'Traoré']",02-Octobre-2020,Paris-SG,53,,,ITraoré
+137,"['(s.p.)', 'G.', 'Kakuta', '15’']",03-Octobre-2020,Lens,15,(s.p.),,spGKakuta
+138,"['F.', 'Sotoca', '81’']",03-Octobre-2020,Lens,81,,,FSotoca
+139,"['Dante', '27’']",03-Octobre-2020,Nice,27,,,Dante
+140,"['K.', 'Thuram', '62’']",03-Octobre-2020,Nice,62,,,KThuram
+141,"['45’', '+6', 'I.', 'Louza', '(s.p.)']",03-Octobre-2020,Nice,456,(s.p.),,ILouzasp
+142,"['84’', 'R.', 'Ripart']",04-Octobre-2020,Montpellier,84,,,RRipart
+143,"['21’', 'M.', 'Çelik']","04-Octobre-2020,",Strasbourg,21,,,MÇelik
+144,"['54’', 'R.', 'Sanches']","04-Octobre-2020,",Strasbourg,54,,,RSanches
+145,"['67’', 'B.', 'Yilmaz']","04-Octobre-2020,",Strasbourg,67,,,BYilmaz
+146,"['R.', 'Faivre', '08’']","04-Octobre-2020,",Brest,8,,,RFaivre
+147,"['R.', 'Oudin', '12’']","04-Octobre-2020,",Bordeaux,12,,,ROudin
+148,"['S.', 'Kalu', '29’']","04-Octobre-2020,",Bordeaux,29,,,SKalu
+149,"['T.', 'Basic', '89’']","04-Octobre-2020,",Bordeaux,89,,,TBasic
+150,"['(s.p.)', 'I.', 'Niane', '43’']","04-Octobre-2020,",Metz,43,(s.p.),,spINiane
+151,"['I.', 'Niane', '60’']","04-Octobre-2020,",Metz,60,,,INiane
+152,"['I.', 'Niane', '63’']","04-Octobre-2020,",Metz,63,,,INiane
+153,"['36’', 'P.', 'Hamel']","04-Octobre-2020,",Metz,36,,,PHamel
+154,"['Raphinha', '24’']","04-Octobre-2020,",Rennes,24,,,Raphinha
+155,"['D.', 'Da', 'Silva', '37’']","04-Octobre-2020,",Rennes,37,,,DDaSilva
+156,"['11’', 'Y.', 'Abdelhamid']","04-Octobre-2020,",Rennes,11,,,YAbdelhamid
+157,"['66’', 'B.', 'Dia']","04-Octobre-2020,",Rennes,66,,,BDia
+158,"['(s.p.)', 'H.', 'Aouar', '28’']",04-Octobre-2020,Lyon,28,(s.p.),,spHAouar
+159,"['16’', 'D.', 'Payet']",04-Octobre-2020,Lyon,16,,,DPayet
+160,"['M.', 'Baldé', '54’']",16-Octobre-2020,Dijon,54,,,MBaldé
+161,"['24’', 'M.', 'Terrier']",16-Octobre-2020,Dijon,24,,,MTerrier
+162,"['32’', 'K.', 'Mbappé']",16-Octobre-2020,Nîmes,32,,,KMbappé
+163,"['78’', 'A.', 'Florenzi']",16-Octobre-2020,Nîmes,78,,,AFlorenzi
+164,"['83’', 'K.', 'Mbappé']",16-Octobre-2020,Nîmes,83,,,KMbappé
+165,"['88’', 'P.', 'Sarabia']",16-Octobre-2020,Nîmes,88,,,PSarabia
+166,"['M.', 'Cassama', '15’']",17-Octobre-2020,Reims,15,,,MCassama
+167,"['61’', 'P.', 'Hamel']",17-Octobre-2020,Reims,61,,,PHamel
+168,"['65’', 'Y.', 'Wissa', '(s.p.)']",17-Octobre-2020,Reims,65,(s.p.),,YWissasp
+169,"['80’', 'T.', 'Moffi']",17-Octobre-2020,Reims,80,,,TMoffi
+170,"['F.', 'Thauvin', '05’']",17-Octobre-2020,Marseille,5,,,FThauvin
+171,"['J.', 'Amavi', '54’']",17-Octobre-2020,Marseille,54,,,JAmavi
+172,"['(csc)', 'Pablo', '64’']",17-Octobre-2020,Marseille,64,,(csc),cscPablo
+173,"['83’', 'J.', 'Maja']",17-Octobre-2020,Marseille,83,,,JMaja
+174,"['H.', 'Diallo', '43’']",18-Octobre-2020,Strasbourg,43,,,HDiallo
+175,"['J.', 'Aholou', '55’']",18-Octobre-2020,Strasbourg,55,,,JAholou
+176,"['12’', 'T.', 'Kadewere']",18-Octobre-2020,Strasbourg,12,,,TKadewere
+177,"['26’', 'K.', 'Toko', 'Ekambi']",18-Octobre-2020,Strasbourg,26,,,KTokoEkambi
+178,"['42’', 'K.', 'Toko', 'Ekambi']",18-Octobre-2020,Strasbourg,42,,,KTokoEkambi
+179,"['(s.p.)', 'W.', 'Ben', 'Yedder', '70’']",18-Octobre-2020,Monaco,70,(s.p.),,spWBenYedder
+180,"['51’', 'S.', 'Mavididi']",18-Octobre-2020,Monaco,51,,,SMavididi
+181,"['R.', 'Kolo', 'Muani', '16’']",18-Octobre-2020,Nantes,16,,,RKoloMuani
+182,"['L.', 'Blas', '30’']",18-Octobre-2020,Nantes,30,,,LBlas
+183,"['A.', 'Bamba', '79’']",18-Octobre-2020,Nantes,79,,,ABamba
+184,"['68’', 'R.', 'Faivre']",18-Octobre-2020,Nantes,68,,,RFaivre
+185,"['(s.p.)', 'T.', 'Mangani', '38’']",18-Octobre-2020,Angers,38,(s.p.),,spTMangani
+186,"['39’', 'O.', 'Nguette']",18-Octobre-2020,Angers,39,,,ONguette
+187,"['A.', 'Aouchiche', '57’']",18-Octobre-2020,Saint-Étienne,57,,,AAouchiche
+188,"['08’', 'P.', 'Lees-Melou']",18-Octobre-2020,Saint-Étienne,8,,,PLeesMelou
+189,"['30’', 'A.', 'Gouiri']",18-Octobre-2020,Saint-Étienne,30,,,AGouiri
+190,"['90’', '+1', 'M.', 'Maolida']",18-Octobre-2020,Saint-Étienne,901,,,MMaolida
+191,"['B.', 'Yilmaz', '11’']",18-Octobre-2020,Lille,11,,,BYilmaz
+192,"['J.', 'Bamba', '48’']",18-Octobre-2020,Lille,48,,,JBamba
+193,"['J.', 'Ikoné', '69’']",18-Octobre-2020,Lille,69,,,JIkoné
+194,"['Y.', 'Yazici', '79’']",18-Octobre-2020,Lille,79,,,YYazici
+195,"['A.', 'Hunou', '18’']",23-Octobre-2020,Rennes,18,,,AHunou
+196,"['27’', 'S.', 'Boufal']",23-Octobre-2020,Rennes,27,,,SBoufal
+197,"['57’', 'A.', 'Fulgini']",23-Octobre-2020,Rennes,57,,,AFulgini
+198,"['54’', 'L.', 'Balerdi']",24-Octobre-2020,Lorient,54,,,LBalerdi
+199,"['M.', 'Kean', '03’']",24-Octobre-2020,Paris-SG,3,,,MKean
+200,"['M.', 'Kean', '23’']",24-Octobre-2020,Paris-SG,23,,,MKean
+201,"['K.', 'Mbappé', '82’']",24-Octobre-2020,Paris-SG,82,,,KMbappé
+202,"['K.', 'Mbappé', '88’']",24-Octobre-2020,Paris-SG,88,,,KMbappé
+203,"['09’', 'B.', 'Dia', '(s.p.)']",25-Octobre-2020,Montpellier,9,(s.p.),,BDiasp
+204,"['13’', 'B.', 'Dia']",25-Octobre-2020,Montpellier,13,,,BDia
+205,"['31’', 'N.', 'Mbuku']",25-Octobre-2020,Montpellier,31,,,NMbuku
+206,"['56’', 'B.', 'Dia', '(s.p.)']",25-Octobre-2020,Montpellier,56,(s.p.),,BDiasp
+207,"['F.', 'Boulaya', '05’']",25-Octobre-2020,Metz,5,,,FBoulaya
+208,"['(csc)', 'N.', 'Sissoko', '78’']",25-Octobre-2020,Metz,78,,(csc),cscNSissoko
+209,"['(s.p.)', 'J.', 'Briand', '80’']",25-Octobre-2020,Bordeaux,80,(s.p.),,spJBriand
+210,"['R.', 'Oudin', '82’']",25-Octobre-2020,Bordeaux,82,,,ROudin
+211,"['27’', 'H.', 'Diallo']",25-Octobre-2020,Brest,27,,,HDiallo
+212,"['40’', 'K.', 'Lala', '(s.p.)']",25-Octobre-2020,Brest,40,(s.p.),,KLalasp
+213,"['67’', 'L.', 'Ajorque']",25-Octobre-2020,Brest,67,,,LAjorque
+214,"['K.', 'Dolberg', '50’']",25-Octobre-2020,Nice,50,,,KDolberg
+215,"['58’', 'B.', 'Yilmaz']",25-Octobre-2020,Nice,58,,,BYilmaz
+216,"['M.', 'Depay', '12’']",25-Octobre-2020,Lyon,12,,,MDepay
+217,"['K.', 'Toko', 'Ekambi', '34’']",25-Octobre-2020,Lyon,34,,,KTokoEkambi
+218,"['(s.p.)', 'H.', 'Aouar', '41’']",25-Octobre-2020,Lyon,41,(s.p.),,spHAouar
+219,"['K.', 'Toko', 'Ekambi', '44’']",25-Octobre-2020,Lyon,44,,,KTokoEkambi
+220,"['48’', 'W.', 'Ben', 'Yedder', '(s.p.)']",25-Octobre-2020,Lyon,48,(s.p.),,WBenYeddersp
+221,"['G.', 'Kakuta', '27’']",25-Novembre-2020,Lens,27,,,GKakuta
+222,"['81’', 'A.', 'Touré', '(s.p.)']",25-Novembre-2020,Lens,81,(s.p.),,ATourésp
+223,"['D.', 'Da', 'Silva', '66’']",31-Octobre-2020,Rennes,66,,,DDaSilva
+224,"['N.', 'Aguerd', '70’']",31-Octobre-2020,Rennes,70,,,NAguerd
+225,"['57’', 'F.', 'Honorat']",31-Octobre-2020,Rennes,57,,,FHonorat
+226,"['47’', 'A.', 'Herrera']",31-Octobre-2020,Nantes,47,,,AHerrera
+227,"['65’', 'K.', 'Mbappé', '(s.p.)']",31-Octobre-2020,Nantes,65,(s.p.),,KMbappésp
+228,"['88’', 'P.', 'Sarabia']",31-Octobre-2020,Nantes,88,,,PSarabia
+229,"['14’', 'S.', 'Mavididi']",01-Novembre-2020,Saint-Étienne,14,,,SMavididi
+230,"['12’', 'R.', 'Lopes']",01-Novembre-2020,Angers,12,,,RLopes
+231,"['23’', 'P.', 'Lees-Melou', '(s.p.)']",01-Novembre-2020,Angers,23,(s.p.),,PLeesMelousp
+232,"['77’', 'H.', 'Boudaoui']",01-Novembre-2020,Angers,77,,,HBoudaoui
+233,"['15’', 'M.', 'Gueye']",01-Novembre-2020,Nîmes,15,,,MGueye
+234,"['(csc)', 'B.', 'Kamara', '22’']",01-Novembre-2020,Reims,22,,(csc),cscBKamara
+235,"['W.', 'Faes', '26’']",01-Novembre-2020,Reims,26,,,WFaes
+236,"['30’', 'L.', 'Ajorque', '(s.p.)']",01-Novembre-2020,Reims,30,(s.p.),,LAjorquesp
+237,"['(s.p.)', 'W.', 'Ben', 'Yedder', '27’']",01-Novembre-2020,Monaco,27,(s.p.),,spWBenYedder
+238,"['G.', 'Martins', '30’']",01-Novembre-2020,Monaco,30,,,GMartins
+239,"['K.', 'Volland', '31’']",01-Novembre-2020,Monaco,31,,,KVolland
+240,"['K.', 'Volland', '58’']",01-Novembre-2020,Monaco,58,,,KVolland
+241,"['J.', 'Bamba', '23’']",01-Novembre-2020,Lille,23,,,JBamba
+242,"['41’', 'M.', 'Çelik', '(csc)']",01-Novembre-2020,Lille,41,,(csc),MÇelikcsc
+243,"['59’', 'S.', 'Banza']","20-Janvier-2021,",Marseille,59,,,SBanza
+244,"['72’', 'M.', 'Sanson']",06-Novembre-2020,Strasbourg,72,,,MSanson
+245,"['49’', 'F.', 'Mollet']",07-Novembre-2020,Bordeaux,49,,,FMollet
+246,"['66’', 'A.', 'Delort']",07-Novembre-2020,Bordeaux,66,,,ADelort
+247,"['M.', 'Kean', '11’']",07-Novembre-2020,Paris-SG,11,,,MKean
+248,"['A.', 'Di', 'Maria', '21’']",07-Novembre-2020,Paris-SG,21,,,ADiMaria
+249,"['(csc)', 'D.', 'Da', 'Silva', '73’']",07-Novembre-2020,Paris-SG,73,,(csc),cscDDaSilva
+250,"['R.', 'Pierre-Gabriel', '15’']",08-Novembre-2020,Brest,15,,,RPierreGabriel
+251,"['R.', 'Perraud', '19’']",08-Novembre-2020,Brest,19,,,RPerraud
+252,"['I.', 'Cardona', '42’']",08-Novembre-2020,Brest,42,,,ICardona
+253,"['45’', '+3', 'B.', 'Yilmaz', '(s.p.)']",08-Novembre-2020,Brest,453,(s.p.),,BYilmazsp
+254,"['57’', 'B.', 'Yilmaz']",08-Novembre-2020,Brest,57,,,BYilmaz
+255,"['S.', 'Banza', '21’']",08-Novembre-2020,Lens,21,,,SBanza
+256,"['(csc)', 'T.', 'Foket', '77’']",08-Novembre-2020,Lens,77,,(csc),cscTFoket
+257,"['F.', 'Sotoca', '90’']",08-Novembre-2020,Lens,90,,,FSotoca
+258,"['F.', 'Sotoca', '90’', '+1']",08-Novembre-2020,Lens,901,,,FSotoca
+259,"['47’', 'M.', 'Cafaro']",08-Novembre-2020,Lens,47,,,MCafaro
+260,"['54’', 'B.', 'Dia']",08-Novembre-2020,Lens,54,,,BDia
+261,"['79’', 'F.', 'Medina', '(csc)']",08-Novembre-2020,Lens,79,,(csc),FMedinacsc
+262,"['81’', 'B.', 'Dia']",08-Novembre-2020,Lens,81,,,BDia
+263,"['P.', 'Yade', '21’']",08-Novembre-2020,Metz,21,,,PYade
+264,"['13’', 'M.', 'Baldé']",08-Novembre-2020,Metz,13,,,MBaldé
+265,"['M.', 'Koné', '90’', '+1']",08-Novembre-2020,Nîmes,901,,,MKoné
+266,"['01’', 'M.', 'Pereira', 'Lage']",08-Novembre-2020,Nîmes,1,,,MPereiraLage
+267,"['23’', 'S.', 'Bahoken']",08-Novembre-2020,Nîmes,23,,,SBahoken
+268,"['56’', 'S.', 'Bahoken']",08-Novembre-2020,Nîmes,56,,,SBahoken
+269,"['82’', 'L.', 'Diony', '(s.p.)']",08-Novembre-2020,Nîmes,82,(s.p.),,LDionysp
+270,"['90’', '+4', 'J.', 'Cabot']",08-Novembre-2020,Nîmes,904,,,JCabot
+271,"['80’', 'A.', 'Bamba']",08-Novembre-2020,Lorient,80,,,ABamba
+272,"['83’', 'L.', 'Blas']",08-Novembre-2020,Lorient,83,,,LBlas
+273,"['P.', 'Lees-Melou', '69’']",08-Novembre-2020,Nice,69,,,PLeesMelou
+274,"['23’', 'A.', 'Disasi']",08-Novembre-2020,Nice,23,,,ADisasi
+275,"['53’', 'S.', 'Diop']",08-Novembre-2020,Nice,53,,,SDiop
+276,"['T.', 'Kadewere', '65’']",08-Novembre-2020,Lyon,65,,,TKadewere
+277,"['T.', 'Kadewere', '74’']",08-Novembre-2020,Lyon,74,,,TKadewere
+278,"['40’', 'A.', 'Lopes', '(csc)']",08-Novembre-2020,Lyon,40,,(csc),ALopescsc
+279,"['37’', 'H.', 'Ben', 'Arfa']","20-Novembre-2020,",Rennes,37,,,HBenArfa
+280,"['K.', 'Volland', '52’']","20-Novembre-2020,",Monaco,52,,,KVolland
+281,"['K.', 'Volland', '65’']","20-Novembre-2020,",Monaco,65,,,KVolland
+282,"['(s.p.)', 'F.', 'Fabregas', '84’']","20-Novembre-2020,",Monaco,84,(s.p.),,spFFabregas
+283,"['25’', 'K.', 'Mbappé']","20-Novembre-2020,",Monaco,25,,,KMbappé
+284,"['37’', 'K.', 'Mbappé', '(s.p.)']","20-Novembre-2020,",Monaco,37,(s.p.),,KMbappésp
+285,"['F.', 'Honorat', '07’']","21-Novembre-2020,",Brest,7,,,FHonorat
+286,"['J.', 'Duverne', '23’']","21-Novembre-2020,",Brest,23,,,JDuverne
+287,"['I.', 'Cardona', '33’']","21-Novembre-2020,",Brest,33,,,ICardona
+288,"['S.', 'Mounié', '38’']","21-Novembre-2020,",Brest,38,,,SMounié
+289,"['30’', 'M.', 'Camara']","21-Novembre-2020,",Brest,30,,,MCamara
+290,"['R.', 'Kolo', 'Muani', '28’']","22-Novembre-2020,",Nantes,28,,,RKoloMuani
+291,"['45’', '+4', 'A.', 'Leya', 'Iseka', '(s.p.)']","22-Novembre-2020,",Nantes,454,(s.p.),,ALeyaIsekasp
+292,"['P.', 'Mendes', '08’']","22-Novembre-2020,",Montpellier,8,,,PMendes
+293,"['A.', 'Delort', '13’']","22-Novembre-2020,",Montpellier,13,,,ADelort
+294,"['A.', 'Delort', '31’']","22-Novembre-2020,",Montpellier,31,,,ADelort
+295,"['G.', 'Laborde', '68’']","22-Novembre-2020,",Montpellier,68,,,GLaborde
+296,"['22’', 'K.', 'Lala', '(s.p.)']","22-Novembre-2020,",Montpellier,22,(s.p.),,KLalasp
+297,"['26’', 'H.', 'Diallo', '(s.p.)']","22-Novembre-2020,",Montpellier,26,(s.p.),,HDiallosp
+298,"['45’', 'L.', 'Ajorque']","22-Novembre-2020,",Montpellier,45,,,LAjorque
+299,"['23’', 'A.', 'Kalimuendo']","22-Novembre-2020,",Dijon,23,,,AKalimuendo
+300,"['62’', 'R.', 'Ripart', '(s.p.)']","22-Novembre-2020,",Reims,62,(s.p.),,RRipartsp
+301,"['78’', 'T.', 'Kadewere']","22-Novembre-2020,",Angers,78,,,TKadewere
+302,"['Y.', 'Yazici', '29’']","22-Novembre-2020,",Lille,29,,,YYazici
+303,"['Y.', 'Yazici', '51’']","22-Novembre-2020,",Lille,51,,,YYazici
+304,"['L.', 'Araujo', '57’']","22-Novembre-2020,",Lille,57,,,LAraujo
+305,"['J.', 'David', '89’']","22-Novembre-2020,",Lille,89,,,JDavid
+306,"['A.', 'Gonzalez', '14’']","17-Février-2021,",Marseille,14,,,AGonzalez
+307,"['S.', 'Khaoui', '42’']","17-Février-2021,",Marseille,42,,,SKhaoui
+308,"['S.', 'Khaoui', '53’']","17-Février-2021,",Marseille,53,,,SKhaoui
+309,"['47’', 'A.', 'Gouiri']","17-Février-2021,",Marseille,47,,,AGouiri
+310,"['87’', 'M.', 'Sellouki']","17-Février-2021,",Marseille,87,,,MSellouki
+311,"['A.', 'Thomasson', '24’']",27-Novembre-2020,Strasbourg,24,,,AThomasson
+312,"['60’', 'A.', 'Hunou']",27-Novembre-2020,Strasbourg,60,,,AHunou
+313,"['F.', 'Thauvin', '02’']",28-Novembre-2020,Marseille,2,,,FThauvin
+314,"['D.', 'Payet', '35’']",28-Novembre-2020,Marseille,35,,,DPayet
+315,"['(s.p.)', 'D.', 'Benedetto', '60’']",28-Novembre-2020,Marseille,60,(s.p.),,spDBenedetto
+316,"['73’', 'L.', 'Blas']",28-Novembre-2020,Marseille,73,,,LBlas
+317,"['(s.p.)', 'Neymar', '27’']",28-Novembre-2020,Paris-SG,27,(s.p.),,spNeymar
+318,"['M.', 'Kean', '28’']",28-Novembre-2020,Paris-SG,28,,,MKean
+319,"['10’', 'T.', 'Pembélé', '(csc)']",28-Novembre-2020,Paris-SG,10,,(csc),TPembélécsc
+320,"['60’', 'Y.', 'Adli']",28-Novembre-2020,Paris-SG,60,,,YAdli
+321,"['K.', 'Toko', 'Ekambi', '21’']",29-Novembre-2020,Lyon,21,,,KTokoEkambi
+322,"['B.', 'Guimaraes', '48’']",29-Novembre-2020,Lyon,48,,,BGuimaraes
+323,"['M.', 'Dembélé', '65’']",29-Novembre-2020,Lyon,65,,,MDembélé
+324,"['A.', 'Kalimuendo', '34’']",29-Novembre-2020,Lens,34,,,AKalimuendo
+325,"['22’', 'M.', 'Pereira', 'Lage']",29-Novembre-2020,Lens,22,,,MPereiraLage
+326,"['50’', 'S.', 'Bahoken']",29-Novembre-2020,Lens,50,,,SBahoken
+327,"['90’', '+2', 'P.', 'Capelle']",29-Novembre-2020,Lens,902,,,PCapelle
+328,"['79’', 'P.', 'Skuletic']",29-Novembre-2020,Lorient,79,,,PSkuletic
+329,"['S.', 'Diop', '19’']",29-Novembre-2020,Monaco,19,,,SDiop
+330,"['G.', 'Martins', '75’']",29-Novembre-2020,Monaco,75,,,GMartins
+331,"['K.', 'Volland', '77’']",29-Novembre-2020,Monaco,77,,,KVolland
+332,"['12’', 'I.', 'Cardona']",29-Novembre-2020,Metz,12,,,ICardona
+333,"['64’', 'I.', 'Cardona']",29-Novembre-2020,Metz,64,,,ICardona
+334,"['(s.p.)', 'A.', 'Gouiri', '80’']",29-Novembre-2020,Nice,80,(s.p.),,spAGouiri
+335,"['21’', 'M.', 'Baldé']",29-Novembre-2020,Nice,21,,,MBaldé
+336,"['31’', 'G.', 'Ngonda', 'Muzinga']",29-Novembre-2020,Nice,31,,,GNgondaMuzinga
+337,"['67’', 'M.', 'Baldé']",29-Novembre-2020,Nice,67,,,MBaldé
+338,"['(s.p.)', 'W.', 'Khazri', '33’']",29-Novembre-2020,Saint-Étienne,33,(s.p.),,spWKhazri
+339,"['65’', 'J.', 'Ikoné']",29-Novembre-2020,Saint-Étienne,65,,,JIkoné
+340,"['57’', 'D.', 'Benedetto']",04-Décembre-2020,Nîmes,57,,,DBenedetto
+341,"['84’', 'V.', 'Germain']",04-Décembre-2020,Nîmes,84,,,VGermain
+342,"['28’', 'A.', 'Kalimuendo']",05-Décembre-2020,Rennes,28,,,AKalimuendo
+343,"['78’', 'I.', 'Ganago']",05-Décembre-2020,Rennes,78,,,IGanago
+344,"['S.', 'Mavididi', '41’']",05-Décembre-2020,Montpellier,41,,,SMavididi
+345,"['33’', 'C.', 'Dagba']",05-Décembre-2020,Montpellier,33,,,CDagba
+346,"['77’', 'M.', 'Kean']",05-Décembre-2020,Montpellier,77,,,MKean
+347,"['90’', '+1', 'K.', 'Mbappé']",05-Décembre-2020,Montpellier,901,,,KMbappé
+348,"['J.', 'David', '53’']","06-Décembre-2020,",Lille,53,,,JDavid
+349,"['Y.', 'Yazici', '65’']","06-Décembre-2020,",Lille,65,,,YYazici
+350,"['90’', 'P.', 'Pellegri']","06-Décembre-2020,",Lille,90,,,PPellegri
+351,"['A.', 'Fulgini', '10’']",06-Décembre-2020,Angers,10,,,AFulgini
+352,"['P.', 'Capelle', '90’', '+6']",06-Décembre-2020,Angers,906,,,PCapelle
+353,"['H.', 'Ben', 'Arfa', '85’']",06-Décembre-2020,Bordeaux,85,,,HBenArfa
+354,"['16’', 'D.', 'Liénard', '(s.p.)']",06-Décembre-2020,Nantes,16,(s.p.),,DLiénardsp
+355,"['34’', 'H.', 'Diallo']",06-Décembre-2020,Nantes,34,,,HDiallo
+356,"['78’', 'L.', 'Ajorque', '(s.p.)']",06-Décembre-2020,Nantes,78,(s.p.),,LAjorquesp
+357,"['83’', 'K.', 'Zohi']",06-Décembre-2020,Nantes,83,,,KZohi
+358,"['F.', 'Boulaya', '75’']",06-Décembre-2020,Metz,75,,,FBoulaya
+359,"['17’', 'M.', 'Depay']",06-Décembre-2020,Metz,17,,,MDepay
+360,"['47’', 'K.', 'Toko', 'Ekambi']",06-Décembre-2020,Metz,47,,,KTokoEkambi
+361,"['60’', 'K.', 'Toko', 'Ekambi']",06-Décembre-2020,Metz,60,,,KTokoEkambi
+362,"['F.', 'Thauvin', '05’']","12-Décembre-2020,",Marseille,5,,,FThauvin
+363,"['D.', 'Benedetto', '13’']","12-Décembre-2020,",Marseille,13,,,DBenedetto
+364,"['79’', 'W.', 'Ben', 'Yedder', '(s.p.)']","12-Décembre-2020,",Marseille,79,(s.p.),,WBenYeddersp
+365,"['(csc)', 'J.', 'Omlin', '36’']",12-Décembre-2020,Lens,36,,(csc),cscJOmlin
+366,"['(s.p.)', 'G.', 'Kakuta', '50’']",12-Décembre-2020,Lens,50,(s.p.),,spGKakuta
+367,"['16’', 'S.', 'Mavididi']",12-Décembre-2020,Lens,16,,,SMavididi
+368,"['26’', 'P.', 'Mendes']",12-Décembre-2020,Lens,26,,,PMendes
+369,"['69’', 'G.', 'Laborde']",12-Décembre-2020,Lens,69,,,GLaborde
+370,"['28’', 'M.', 'Niang']",13-Décembre-2020,Nice,28,,,MNiang
+371,"['F.', 'Honorat', '30’']",13-Décembre-2020,Brest,30,,,FHonorat
+372,"['S.', 'Mounié', '77’']",13-Décembre-2020,Brest,77,,,SMounié
+373,"['65’', 'A.', 'Zeneli']",13-Décembre-2020,Brest,65,,,AZeneli
+374,"['M.', 'Simakan', '65’']",13-Décembre-2020,Strasbourg,65,,,MSimakan
+375,"['A.', 'Thomasson', '78’']",13-Décembre-2020,Strasbourg,78,,,AThomasson
+376,"['35’', 'D.', 'Bronn', '(s.p.)']",13-Décembre-2020,Strasbourg,35,(s.p.),,DBronnsp
+377,"['70’', 'O.', 'Nguette']",13-Décembre-2020,Strasbourg,70,,,ONguette
+378,"['(s.p.)', 'M.', 'Simon', '24’']",13-Décembre-2020,Nantes,24,(s.p.),,spMSimon
+379,"['54’', 'M.', 'Konaté']",13-Décembre-2020,Nantes,54,,,MKonaté
+380,"['Q.', 'Boisgard', '02’']",13-Décembre-2020,Lorient,2,,,QBoisgard
+381,"['(s.p.)', 'P.', 'Hamel', '29’']",13-Décembre-2020,Lorient,29,(s.p.),,spPHamel
+382,"['Y.', 'Wissa', '90’']",13-Décembre-2020,Lorient,90,,,YWissa
+383,"['J.', 'Bamba', '16’']",13-Décembre-2020,Lille,16,,,JBamba
+384,"['J.', 'Fonte', '45’']",13-Décembre-2020,Lille,45,,,JFonte
+385,"['30’', 'T.', 'Basic']",13-Décembre-2020,Lille,30,,,TBasic
+386,"['35’', 'T.', 'Kadewere']",13-Décembre-2020,Paris-SG,35,,,TKadewere
+387,"['19’', 'Y.', 'Yazici']",16-Décembre-2020,Dijon,19,,,YYazici
+388,"['90’', '+3', 'T.', 'Weah']",16-Décembre-2020,Dijon,903,,,TWeah
+389,"['50’', 'A.', 'Leya', 'Iseka', '(s.p.)']",16-Décembre-2020,Montpellier,50,(s.p.),,ALeyaIsekasp
+390,"['90’', 'H.', 'Maïga']",16-Décembre-2020,Montpellier,90,,,HMaïga
+391,"['77’', 'H.', 'Diallo']",16-Décembre-2020,Angers,77,,,HDiallo
+392,"['90’', '+1', 'L.', 'Ajorque']",16-Décembre-2020,Angers,901,,,LAjorque
+393,"['85’', 'D.', 'Ndoye']",16-Décembre-2020,Nîmes,85,,,DNdoye
+394,"['90’', '+4', 'A.', 'Claude-Maurice']",16-Décembre-2020,Nîmes,904,,,AClaudeMaurice
+395,"['E.', 'Touré', '68’']",16-Décembre-2020,Reims,68,,,ETouré
+396,"['(s.p.)', 'B.', 'Dia', '72’']",16-Décembre-2020,Reims,72,(s.p.),,spBDia
+397,"['M.', 'Cafaro', '74’']",16-Décembre-2020,Reims,74,,,MCafaro
+398,"['18’', 'N.', 'Pallois']",16-Décembre-2020,Reims,18,,,NPallois
+399,"['79’', 'L.', 'Blas']",16-Décembre-2020,Reims,79,,,LBlas
+400,"['(s.p.)', 'M.', 'Depay', '69’']",16-Décembre-2020,Lyon,69,(s.p.),,spMDepay
+401,"['M.', 'Cornet', '81’']",16-Décembre-2020,Lyon,81,,,MCornet
+402,"['39’', 'A.', 'Lopes', '(csc)']",16-Décembre-2020,Lyon,39,,(csc),ALopescsc
+403,"['90’', '+3', 'R.', 'Faivre', '(s.p.)']",16-Décembre-2020,Lyon,903,(s.p.),,RFaivresp
+404,"['(s.p.)', 'K.', 'Mbappé', '51’']",16-Décembre-2020,Paris-SG,51,(s.p.),,spKMbappé
+405,"['M.', 'Kean', '61’']",16-Décembre-2020,Paris-SG,61,,,MKean
+406,"['H.', 'Traoré', '63’']",16-Décembre-2020,Rennes,63,,,HTraoré
+407,"['A.', 'Hunou', '83’']",16-Décembre-2020,Rennes,83,,,AHunou
+408,"['24’', 'P.', 'Gueye']",16-Décembre-2020,Rennes,24,,,PGueye
+409,"['01’', 'I.', 'Sylla']",16-Décembre-2020,Monaco,1,,,ISylla
+410,"['34’', 'S.', 'Banza']",16-Décembre-2020,Monaco,34,,,SBanza
+411,"['39’', 'G.', 'Kakuta']",16-Décembre-2020,Monaco,39,,,GKakuta
+412,"['U.', 'Hwang', '24’']",16-Décembre-2020,Bordeaux,24,,,UHwang
+413,"['15’', 'A.', 'Nordin']",16-Décembre-2020,Bordeaux,15,,,ANordin
+414,"['76’', 'Y.', 'Neyou']",16-Décembre-2020,Bordeaux,76,,,YNeyou
+415,"['O.', 'Nguette', '30’']",19-Décembre-2020,Metz,30,,,ONguette
+416,"['F.', 'Boulaya', '90’', '+4']",19-Décembre-2020,Metz,904,,,FBoulaya
+417,"['F.', 'Thauvin', '45’']",19-Décembre-2020,Marseille,45,,,FThauvin
+418,"['21’', 'Y.', 'Nagatomo', '(csc)']",19-Décembre-2020,Marseille,21,,(csc),YNagatomocsc
+419,"['A.', 'Gouiri', '43’']",19-Décembre-2020,Nice,43,,,AGouiri
+420,"['32’', 'M.', 'Depay', '(s.p.)']",19-Décembre-2020,Nice,32,(s.p.),,MDepaysp
+421,"['39’', 'T.', 'Kadewere']",19-Décembre-2020,Nice,39,,,TKadewere
+422,"['63’', 'K.', 'Toko', 'Ekambi']",19-Décembre-2020,Nice,63,,,KTokoEkambi
+423,"['73’', 'H.', 'Aouar']",19-Décembre-2020,Nice,73,,,HAouar
+424,"['R.', 'Philippoteaux', '58’']",20-Décembre-2020,Brest,58,,,RPhilippoteaux
+425,"['B.', 'Chardonnet', '79’']",20-Décembre-2020,Brest,79,,,BChardonnet
+426,"['45’', '+1', 'G.', 'Laborde']",20-Décembre-2020,Brest,451,,,GLaborde
+427,"['82’', 'A.', 'Delort']",20-Décembre-2020,Brest,82,,,ADelort
+428,"['15’', 'K.', 'Volland']",20-Décembre-2020,Dijon,15,,,KVolland
+429,"['C.', 'Traoré', '90’', '+4']",20-Décembre-2020,Nantes,904,,,CTraoré
+430,"['42’', 'R.', 'Thomas']",20-Décembre-2020,Nantes,42,,,RThomas
+431,"['38’', 'Pablo']",20-Décembre-2020,Strasbourg,38,,,Pablo
+432,"['66’', 'Otavio']",20-Décembre-2020,Strasbourg,66,,,Otavio
+433,"['H.', 'Moukoudi', '08’']",20-Décembre-2020,Saint-Étienne,8,,,HMoukoudi
+434,"['A.', 'Nordin', '63’']",20-Décembre-2020,Saint-Étienne,63,,,ANordin
+435,"['14’', 'M.', 'Ahlinvi']",20-Décembre-2020,Saint-Étienne,14,,,MAhlinvi
+436,"['56’', 'R.', 'Ripart', '(s.p.)']",20-Décembre-2020,Saint-Étienne,56,(s.p.),,RRipartsp
+437,"['23’', 'D.', 'Da', 'Silva']",20-Décembre-2020,Lorient,23,,,DDaSilva
+438,"['70’', 'B.', 'Bourigeaud']",20-Décembre-2020,Lorient,70,,,BBourigeaud
+439,"['76’', 'M.', 'Terrier']",20-Décembre-2020,Lorient,76,,,MTerrier
+440,"['C.', 'Grenier', '52’']",23-Décembre-2020,Rennes,52,,,CGrenier
+441,"['A.', 'Kalimuendo', '11’']",23-Décembre-2020,Lens,11,,,AKalimuendo
+442,"['(s.p.)', 'F.', 'Sotoca', '33’']",23-Décembre-2020,Lens,33,(s.p.),,spFSotoca
+443,"['90’', '+4', 'G.', 'Charbonnier', '(s.p.)']",23-Décembre-2020,Lens,904,(s.p.),,GCharbonniersp
+444,"['U.', 'Hwang', '73’']",23-Décembre-2020,Bordeaux,73,,,UHwang
+445,"['15’', 'Y.', 'Abdelhamid']",23-Décembre-2020,Bordeaux,15,,,YAbdelhamid
+446,"['18’', 'B.', 'Dia']",23-Décembre-2020,Bordeaux,18,,,BDia
+447,"['88’', 'M.', 'Munetsi']",23-Décembre-2020,Bordeaux,88,,,MMunetsi
+448,"['J.', 'Lotomba', '18’']",23-Décembre-2020,Nice,18,,,JLotomba
+449,"['J.', 'Reine-Adélaïde', '34’']",23-Décembre-2020,Nice,34,,,JReineAdélaïde
+450,"['49’', 'T.', 'Moffi']",23-Décembre-2020,Nice,49,,,TMoffi
+451,"['82’', 'A.', 'Grbic', '(s.p.)']",23-Décembre-2020,Nice,82,(s.p.),,AGrbicsp
+452,"['M.', 'Ahlinvi', '31’']",23-Décembre-2020,Nîmes,31,,,MAhlinvi
+453,"['74’', 'M.', 'Konaté']",23-Décembre-2020,Nîmes,74,,,MKonaté
+454,"['76’', 'M.', 'Baldé']",23-Décembre-2020,Nîmes,76,,,MBaldé
+455,"['90’', '+4', 'M.', 'Konaté']",23-Décembre-2020,Nîmes,904,,,MKonaté
+456,"['G.', 'Laborde', '57’']",23-Décembre-2020,Montpellier,57,,,GLaborde
+457,"['A.', 'Delort', '70’']",23-Décembre-2020,Montpellier,70,,,ADelort
+458,"['23’', 'T.', 'Weah']",23-Décembre-2020,Montpellier,23,,,TWeah
+459,"['68’', 'J.', 'Ikoné', '(s.p.)']",23-Décembre-2020,Montpellier,68,(s.p.),,JIkonésp
+460,"['87’', 'B.', 'Yilmaz']",23-Décembre-2020,Montpellier,87,,,BYilmaz
+461,"['K.', 'Toko', 'Ekambi', '04’']",23-Décembre-2020,Lyon,4,,,KTokoEkambi
+462,"['T.', 'Kadewere', '37’']",23-Décembre-2020,Lyon,37,,,TKadewere
+463,"['L.', 'Paqueta', '44’']",23-Décembre-2020,Lyon,44,,,LPaqueta
+464,"['T.', 'Pembélé', '18’']",23-Décembre-2020,Paris-SG,18,,,TPembélé
+465,"['K.', 'Mbappé', '80’']",23-Décembre-2020,Paris-SG,80,,,KMbappé
+466,"['I.', 'Gueye', '88’']",23-Décembre-2020,Paris-SG,88,,,IGueye
+467,"['M.', 'Kean', '90’', '+1']",23-Décembre-2020,Paris-SG,901,,,MKean
+468,"['M.', 'Pereira', 'Lage', '04’']",23-Décembre-2020,Angers,4,,,MPereiraLage
+469,"['L.', 'Diony', '23’']",23-Décembre-2020,Angers,23,,,LDiony
+470,"['75’', 'V.', 'Rongier']",23-Décembre-2020,Angers,75,,,VRongier
+471,"['S.', 'Diop', '07’']",23-Décembre-2020,Monaco,7,,,SDiop
+472,"['K.', 'Volland', '48’']",23-Décembre-2020,Monaco,48,,,KVolland
+473,"['21’', 'M.', 'Debuchy']",23-Décembre-2020,Monaco,21,,,MDebuchy
+474,"['29’', 'D.', 'Bouanga', '(s.p.)']",23-Décembre-2020,Monaco,29,(s.p.),,DBouangasp
+475,"['T.', 'Moffi', '31’']",06-Janvier-2021,Lorient,31,,,TMoffi
+476,"['A.', 'Gravillon', '67’']",06-Janvier-2021,Lorient,67,,,AGravillon
+477,"['09’', 'A.', 'Disasi']",06-Janvier-2021,Lorient,9,,,ADisasi
+478,"['64’', 'A.', 'Golovine']",06-Janvier-2021,Lorient,64,,,AGolovine
+479,"['68’', 'K.', 'Volland']",06-Janvier-2021,Lorient,68,,,KVolland
+480,"['78’', 'S.', 'Diop']",06-Janvier-2021,Lorient,78,,,SDiop
+481,"['89’', 'G.', 'Maripan']",06-Janvier-2021,Lorient,89,,,GMaripan
+482,"['S.', 'Mounié', '23’']",06-Janvier-2021,Brest,23,,,SMounié
+483,"['F.', 'Honorat', '28’']",06-Janvier-2021,Brest,28,,,FHonorat
+484,"['L.', 'Ajorque', '36’']",06-Janvier-2021,Strasbourg,36,,,LAjorque
+485,"['H.', 'Diallo', '38’']",06-Janvier-2021,Strasbourg,38,,,HDiallo
+486,"['(s.p.)', 'K.', 'Lala', '45’', '+1']",06-Janvier-2021,Strasbourg,451,(s.p.),,spKLala
+487,"['L.', 'Ajorque', '51’']",06-Janvier-2021,Strasbourg,51,,,LAjorque
+488,"['(s.p.)', 'A.', 'Waris', '90’']",06-Janvier-2021,Strasbourg,90,(s.p.),,spAWaris
+489,"['M.', 'Depay', '39’']",06-Janvier-2021,Lyon,39,,,MDepay
+490,"['(csc)', 'S.', 'Fortes', '46’']",06-Janvier-2021,Lyon,46,,(csc),cscSFortes
+491,"['(s.p.)', 'M.', 'Depay', '52’']",06-Janvier-2021,Lyon,52,(s.p.),,spMDepay
+492,"['56’', 'F.', 'Sotoca']",06-Janvier-2021,Lyon,56,,,FSotoca
+493,"['89’', 'C.', 'Doucouré']",06-Janvier-2021,Lyon,89,,,CDoucouré
+494,"['B.', 'Yilmaz', '42’']",06-Janvier-2021,Lille,42,,,BYilmaz
+495,"['06’', 'R.', 'Thomas']",06-Janvier-2021,Lille,6,,,RThomas
+496,"['10’', 'R.', 'Thomas']",06-Janvier-2021,Lille,10,,,RThomas
+497,"['R.', 'Hamouma', '19’']",06-Janvier-2021,Saint-Étienne,19,,,RHamouma
+498,"['22’', 'M.', 'Kean']",06-Janvier-2021,Saint-Étienne,22,,,MKean
+499,"['N.', 'Radonjic', '41’']",06-Janvier-2021,Marseille,41,,,NRadonjic
+500,"['D.', 'Payet', '80’']",06-Janvier-2021,Marseille,80,,,DPayet
+501,"['V.', 'Germain', '84’']",06-Janvier-2021,Marseille,84,,,VGermain
+502,"['52’', 'F.', 'Mollet']",06-Janvier-2021,Marseille,52,,,FMollet
+503,"['C.', 'Grenier', '20’']",09-Janvier-2021,Rennes,20,,,CGrenier
+504,"['B.', 'Bourigeaud', '55’']",09-Janvier-2021,Rennes,55,,,BBourigeaud
+505,"['79’', 'M.', 'Depay']",09-Janvier-2021,Rennes,79,,,MDepay
+506,"['82’', 'J.', 'Denayer']",09-Janvier-2021,Rennes,82,,,JDenayer
+507,"['M.', 'Kean', '16’']",09-Janvier-2021,Paris-SG,16,,,MKean
+508,"['M.', 'Icardi', '81’']",09-Janvier-2021,Paris-SG,81,,,MIcardi
+509,"['P.', 'Sarabia', '83’']",09-Janvier-2021,Paris-SG,83,,,PSarabia
+510,"['29’', 'B.', 'Yilmaz']",09-Janvier-2021,Nîmes,29,,,BYilmaz
+511,"['G.', 'Maripan', '40’']",09-Janvier-2021,Monaco,40,,,GMaripan
+512,"['K.', 'Volland', '72’']",09-Janvier-2021,Monaco,72,,,KVolland
+513,"['S.', 'Jovetic', '81’']",09-Janvier-2021,Monaco,81,,,SJovetic
+514,"['21’', 'H.', 'Diallo']",09-Janvier-2021,Lens,21,,,HDiallo
+515,"['A.', 'Oyongo', '06’']",09-Janvier-2021,Montpellier,6,,,AOyongo
+516,"['51’', 'I.', 'Louza']",09-Janvier-2021,Montpellier,51,,,ILouza
+517,"['J.', 'Boye', '79’']",09-Janvier-2021,Metz,79,,,JBoye
+518,"['18’', 'A.', 'Gouiri', '(s.p.)']",09-Janvier-2021,Metz,18,(s.p.),,AGouirisp
+519,"['R.', 'Oudin', '13’']",09-Janvier-2021,Bordeaux,13,,,ROudin
+520,"['R.', 'Oudin', '43’']",09-Janvier-2021,Bordeaux,43,,,ROudin
+521,"['23’', 'T.', 'Moffi']",09-Janvier-2021,Bordeaux,23,,,TMoffi
+522,"['(s.p.)', 'B.', 'Dia', '11’']",09-Janvier-2021,Reims,11,(s.p.),,spBDia
+523,"['B.', 'Dia', '37’']",09-Janvier-2021,Reims,37,,,BDia
+524,"['M.', 'Cafaro', '58’']",09-Janvier-2021,Reims,58,,,MCafaro
+525,"['72’', 'C.', 'Abi']",09-Janvier-2021,Reims,72,,,CAbi
+526,"['S.', 'Wahi', '64’']","15-Janvier-2021,",Montpellier,64,,,SWahi
+527,"['A.', 'Delort', '69’']","15-Janvier-2021,",Montpellier,69,,,ADelort
+528,"['24’', 'K.', 'Volland']","15-Janvier-2021,",Montpellier,24,,,KVolland
+529,"['35’', 'W.', 'Ben', 'Yedder']","15-Janvier-2021,",Montpellier,35,,,WBenYedder
+530,"['61’', 'W.', 'Ben', 'Yedder', '(s.p.)']","15-Janvier-2021,",Montpellier,61,(s.p.),,WBenYeddersp
+531,"['D.', 'Benedetto', '85’']","16-Janvier-2021,",Marseille,85,,,DBenedetto
+532,"['55’', 'N.', 'Eliasson']","16-Janvier-2021,",Marseille,55,,,NEliasson
+533,"['58’', 'N.', 'Eliasson']","16-Janvier-2021,",Marseille,58,,,NEliasson
+534,"['70’', 'L.', 'Kurzawa']","16-Janvier-2021,",Angers,70,,,LKurzawa
+535,"['F.', 'Honorat', '04’']","17-Janvier-2021,",Brest,4,,,FHonorat
+536,"['07’', 'B.', 'Bourigeaud']","17-Janvier-2021,",Brest,7,,,BBourigeaud
+537,"['77’', 'C.', 'Grenier', '(s.p.)']","17-Janvier-2021,",Brest,77,(s.p.),,CGreniersp
+538,"['(s.p.)', 'I.', 'Louza', '36’']","17-Janvier-2021,",Nantes,36,(s.p.),,spILouza
+539,"['81’', 'G.', 'Kakuta']","17-Janvier-2021,",Nantes,81,,,GKakuta
+540,"['50’', 'U.', 'Hwang']","17-Janvier-2021,",Nice,50,,,UHwang
+541,"['75’', 'P.', 'Baysse']","17-Janvier-2021,",Nice,75,,,PBaysse
+542,"['87’', 'T.', 'Basic']","17-Janvier-2021,",Nice,87,,,TBasic
+543,"['L.', 'Ajorque', '29’']","17-Janvier-2021,",Strasbourg,29,,,LAjorque
+544,"['J.', 'Bamba', '48’']","17-Janvier-2021,",Lille,48,,,JBamba
+545,"['J.', 'David', '90’', '+1']","17-Janvier-2021,",Lille,901,,,JDavid
+546,"['36’', 'A.', 'Zeneli']","17-Janvier-2021,",Lille,36,,,AZeneli
+547,"['90’', '+1', 'A.', 'Leya', 'Iseka']","17-Janvier-2021,",Lyon,901,,,ALeyaIseka
+548,"['T.', 'Chalobah', '31’']","27-Janvier-2021,",Lorient,31,,,TChalobah
+549,"['T.', 'Moffi', '58’']","27-Janvier-2021,",Lorient,58,,,TMoffi
+550,"['A.', 'Gravillon', '90’', '+6']","27-Janvier-2021,",Lorient,906,,,AGravillon
+551,"['39’', 'B.', 'Ecuele', 'Manga']","27-Janvier-2021,",Lorient,39,,,BEcueleManga
+552,"['41’', 'M.', 'Baldé']","27-Janvier-2021,",Lorient,41,,,MBaldé
+553,"['K.', 'Mbappé', '34’']","22-Janvier-2021,",Paris-SG,34,,,KMbappé
+554,"['Neymar', '60’']","22-Janvier-2021,",Paris-SG,60,,,Neymar
+555,"['M.', 'Icardi', '61’']","22-Janvier-2021,",Paris-SG,61,,,MIcardi
+556,"['K.', 'Mbappé', '63’']","22-Janvier-2021,",Paris-SG,63,,,KMbappé
+557,"['49’', 'Y.', 'Atal']","23-Janvier-2021,",Lens,49,,,YAtal
+558,"['G.', 'Maripan', '47’']","23-Janvier-2021,",Monaco,47,,,GMaripan
+559,"['A.', 'Tchouaméni', '75’']","23-Janvier-2021,",Monaco,75,,,ATchouaméni
+560,"['S.', 'Jovetic', '90’', '+2']","23-Janvier-2021,",Monaco,902,,,SJovetic
+561,"['12’', 'N.', 'Radonjic']","23-Janvier-2021,",Monaco,12,,,NRadonjic
+562,"['U.', 'Hwang', '08’']","24-Janvier-2021,",Bordeaux,8,,,UHwang
+563,"['U.', 'Hwang', '11’']","24-Janvier-2021,",Bordeaux,11,,,UHwang
+564,"['39’', 'A.', 'Fulgini']","24-Janvier-2021,",Bordeaux,39,,,AFulgini
+565,"['A.', 'Leya', 'Iseka', '35’']","24-Janvier-2021,",Metz,35,,,ALeyaIseka
+566,"['F.', 'Boulaya', '90’', '+4']","24-Janvier-2021,",Metz,904,,,FBoulaya
+567,"['N.', 'Mbuku', '40’']","24-Janvier-2021,",Reims,40,,,NMbuku
+568,"['S.', 'Coulibaly', '63’']","24-Janvier-2021,",Dijon,63,,,SCoulibaly
+569,"['52’', 'L.', 'Ajorque']","24-Janvier-2021,",Dijon,52,,,LAjorque
+570,"['16’', 'J.', 'David']","24-Janvier-2021,",Rennes,16,,,JDavid
+571,"['16’', 'T.', 'Kadewere']","24-Janvier-2021,",Saint-Étienne,16,,,TKadewere
+572,"['36’', 'Marcelo']","24-Janvier-2021,",Saint-Étienne,36,,,Marcelo
+573,"['59’', 'Marcelo']","24-Janvier-2021,",Saint-Étienne,59,,,Marcelo
+574,"['68’', 'T.', 'Kadewere']","24-Janvier-2021,",Saint-Étienne,68,,,TKadewere
+575,"['82’', 'D.', 'Bouanga', '(csc)']","24-Janvier-2021,",Saint-Étienne,82,,(csc),DBouangacsc
+576,"['(s.p.)', 'R.', 'Ripart', '88’']","24-Février-2021,",Nîmes,88,(s.p.),,spRRipart
+577,"['K.', 'Toko', 'Ekambi', '32’']","29-Janvier-2021,",Lyon,32,,,KTokoEkambi
+578,"['L.', 'Dubois', '90’', '+2']","29-Janvier-2021,",Lyon,902,,,LDubois
+579,"['55’', 'S.', 'Kalu']","29-Janvier-2021,",Lyon,55,,,SKalu
+580,"['S.', 'Wahi', '78’']","30-Janvier-2021,",Montpellier,78,,,SWahi
+581,"['07’', 'C.', 'Doucouré']","30-Janvier-2021,",Montpellier,7,,,CDoucouré
+582,"['67’', 'G.', 'Kakuta']","30-Janvier-2021,",Montpellier,67,,,GKakuta
+583,"['88’', 'C.', 'Abi']","31-Janvier-2021,",Nice,88,,,CAbi
+584,"['L.', 'Abergel', '36’']","31-Janvier-2021,",Lorient,36,,,LAbergel
+585,"['Y.', 'Wissa', '80’']","31-Janvier-2021,",Lorient,80,,,YWissa
+586,"['T.', 'Moffi', '90’', '+1']","31-Janvier-2021,",Lorient,901,,,TMoffi
+587,"['45’', 'Neymar', '(s.p.)']","31-Janvier-2021,",Lorient,45,(s.p.),,Neymarsp
+588,"['58’', 'Neymar', '(s.p.)']","31-Janvier-2021,",Lorient,58,(s.p.),,Neymarsp
+589,"['F.', 'Honorat', '33’']","31-Janvier-2021,",Brest,33,,,FHonorat
+590,"['I.', 'Cardona', '47’']","31-Janvier-2021,",Brest,47,,,ICardona
+591,"['36’', 'F.', 'Boulaya']","31-Janvier-2021,",Brest,36,,,FBoulaya
+592,"['73’', 'P.', 'Sarr']","31-Janvier-2021,",Brest,73,,,PSarr
+593,"['81’', 'P.', 'Yade']","31-Janvier-2021,",Brest,81,,,PYade
+594,"['87’', 'V.', 'Dias', 'Goncalves', '(s.p.)']","31-Janvier-2021,",Brest,87,(s.p.),,VDiasGoncalvessp
+595,"['P.', 'Capelle', '20’']","31-Janvier-2021,",Angers,20,,,PCapelle
+596,"['L.', 'Coulibaly', '35’']","31-Janvier-2021,",Angers,35,,,LCoulibaly
+597,"['L.', 'Diony', '55’']","31-Janvier-2021,",Angers,55,,,LDiony
+598,"['41’', 'R.', 'Ripart', '(s.p.)']","31-Janvier-2021,",Angers,41,(s.p.),,RRipartsp
+599,"['81’', 'D.', 'Kutesa']","31-Janvier-2021,",Strasbourg,81,,,DKutesa
+600,"['Y.', 'Yazici', '29’']","31-Janvier-2021,",Lille,29,,,YYazici
+601,"['R.', 'Emond', '83’']","31-Janvier-2021,",Nantes,83,,,REmond
+602,"['45’', 'G.', 'Maripan']","31-Janvier-2021,",Nantes,45,,,GMaripan
+603,"['60’', 'K.', 'Volland']","31-Janvier-2021,",Nantes,60,,,KVolland
+604,"['M.', 'Cuisance', '88’']","10-Mars-2021,",Marseille,88,,,MCuisance
+605,"['54’', 'Y.', 'Yazici']","03-Février-2021,",Bordeaux,54,,,YYazici
+606,"['66’', 'T.', 'Weah']","03-Février-2021,",Bordeaux,66,,,TWeah
+607,"['89’', 'J.', 'David']","03-Février-2021,",Bordeaux,89,,,JDavid
+608,"['M.', 'Terrier', '14’']","03-Février-2021,",Rennes,14,,,MTerrier
+609,"['83’', 'Q.', 'Boisgard']","03-Février-2021,",Rennes,83,,,QBoisgard
+610,"['P.', 'Sarr', '47’']","03-Février-2021,",Metz,47,,,PSarr
+611,"['70’', 'G.', 'Laborde']","03-Février-2021,",Metz,70,,,GLaborde
+612,"['A.', 'Thomasson', '08’']","03-Février-2021,",Strasbourg,8,,,AThomasson
+613,"['J.', 'Aholou', '70’']","03-Février-2021,",Strasbourg,70,,,JAholou
+614,"['83’', 'G.', 'Charbonnier']","03-Février-2021,",Strasbourg,83,,,GCharbonnier
+615,"['90’', '+4', 'J.', 'Le', 'Douaron']","03-Février-2021,",Strasbourg,904,,,JLeDouaron
+616,"['22’', 'L.', 'Paqueta']","03-Février-2021,",Dijon,22,,,LPaqueta
+617,"['A.', 'Di', 'Maria', '18’']","03-Février-2021,",Paris-SG,18,,,ADiMaria
+618,"['P.', 'Sarabia', '36’']","03-Février-2021,",Paris-SG,36,,,PSarabia
+619,"['K.', 'Mbappé', '68’']","03-Février-2021,",Paris-SG,68,,,KMbappé
+620,"['(s.p.)', 'W.', 'Ben', 'Yedder', '28’']","03-Février-2021,",Monaco,28,(s.p.),,spWBenYedder
+621,"['W.', 'Ben', 'Yedder', '51’']","03-Février-2021,",Monaco,51,,,WBenYedder
+622,"['47’', 'P.', 'Lees-Melou']","03-Février-2021,",Monaco,47,,,PLeesMelou
+623,"['F.', 'Sotoca', '46’']","03-Février-2021,",Lens,46,,,FSotoca
+624,"['F.', 'Medina', '61’']","03-Février-2021,",Lens,61,,,FMedina
+625,"['37’', 'F.', 'Thauvin']","03-Février-2021,",Lens,37,,,FThauvin
+626,"['45’', '+2', 'A.', 'Milik']","03-Février-2021,",Lens,452,,,AMilik
+627,"['M.', 'Camara', '57’']","03-Février-2021,",Saint-Étienne,57,,,MCamara
+628,"['36’', 'R.', 'Kolo', 'Muani']","03-Février-2021,",Saint-Étienne,36,,,RKoloMuani
+629,"['L.', 'Abergel', '53’']","06-Février-2021,",Lorient,53,,,LAbergel
+630,"['M.', 'Depay', '20’']","06-Février-2021,",Lyon,20,,,MDepay
+631,"['K.', 'Toko', 'Ekambi', '30’']","06-Février-2021,",Lyon,30,,,KTokoEkambi
+632,"['M.', 'Depay', '68’']","06-Février-2021,",Lyon,68,,,MDepay
+633,"['S.', 'Mounié', '80’']","07-Février-2021,",Brest,80,,,SMounié
+634,"['R.', 'Faivre', '85’']","07-Février-2021,",Brest,85,,,RFaivre
+635,"['56’', 'U.', 'Hwang']","07-Février-2021,",Brest,56,,,UHwang
+636,"['L.', 'Deaux', '23’']","07-Février-2021,",Nîmes,23,,,LDeaux
+637,"['Z.', 'Ferhat', '32’']","07-Février-2021,",Nîmes,32,,,ZFerhat
+638,"['N.', 'Eliasson', '81’']","07-Février-2021,",Nîmes,81,,,NEliasson
+639,"['03’', 'A.', 'Golovine']","07-Février-2021,",Nîmes,3,,,AGolovine
+640,"['12’', 'A.', 'Golovine']","07-Février-2021,",Nîmes,12,,,AGolovine
+641,"['62’', 'A.', 'Golovine']","07-Février-2021,",Nîmes,62,,,AGolovine
+642,"['78’', 'K.', 'Volland']","07-Février-2021,",Nîmes,78,,,KVolland
+643,"['(csc)', 'J.', 'Boye', '14’']","07-Février-2021,",Saint-Étienne,14,,(csc),cscJBoye
+644,"['(csc)', 'S.', 'Doumbia', '10’']","07-Février-2021,",Nice,10,,(csc),cscSDoumbia
+645,"['M.', 'Maolida', '17’']","07-Février-2021,",Nice,17,,,MMaolida
+646,"['A.', 'Gouiri', '83’']","07-Février-2021,",Nice,83,,,AGouiri
+647,"['G.', 'Laborde', '48’']","07-Février-2021,",Montpellier,48,,,GLaborde
+648,"['G.', 'Laborde', '56’']","07-Février-2021,",Montpellier,56,,,GLaborde
+649,"['T.', 'Savanier', '61’']","07-Février-2021,",Montpellier,61,,,TSavanier
+650,"['P.', 'Skuletic', '90’', '+1']","07-Février-2021,",Montpellier,901,,,PSkuletic
+651,"['05’', 'S.', 'Coulibaly']","07-Février-2021,",Montpellier,5,,,SCoulibaly
+652,"['88’', 'M.', 'Konaté', '(s.p.)']","07-Février-2021,",Montpellier,88,(s.p.),,MKonatésp
+653,"['09’', 'J.', 'David']","07-Février-2021,",Nantes,9,,,JDavid
+654,"['83’', 'J.', 'David']","07-Février-2021,",Nantes,83,,,JDavid
+655,"['09’', 'K.', 'Mbappé']","07-Février-2021,",Marseille,9,,,KMbappé
+656,"['24’', 'M.', 'Icardi']","07-Février-2021,",Marseille,24,,,MIcardi
+657,"['J.', 'Draxler', '22’']","13-Février-2021,",Paris-SG,22,,,JDraxler
+658,"['M.', 'Kean', '76’']","13-Février-2021,",Paris-SG,76,,,MKean
+659,"['50’', 'R.', 'Lopes']","13-Février-2021,",Paris-SG,50,,,RLopes
+660,"['A.', 'Zeneli', '13’']","13-Février-2021,",Reims,13,,,AZeneli
+661,"['61’', 'F.', 'Sotoca']","13-Février-2021,",Reims,61,,,FSotoca
+662,"['L.', 'Paqueta', '45’', '+2']","13-Février-2021,",Lyon,452,,,LPaqueta
+663,"['20’', 'T.', 'Savanier']","13-Février-2021,",Lyon,20,,,TSavanier
+664,"['65’', 'S.', 'Wahi']","13-Février-2021,",Lyon,65,,,SWahi
+665,"['(s.p.)', 'W.', 'Ben', 'Yedder', '48’']","14-Février-2021,",Monaco,48,(s.p.),,spWBenYedder
+666,"['W.', 'Ben', 'Yedder', '90’', '+3']","14-Février-2021,",Monaco,903,,,WBenYedder
+667,"['07’', 'T.', 'Moffi', '(s.p.)']","14-Février-2021,",Monaco,7,(s.p.),,TMoffisp
+668,"['62’', 'T.', 'Moffi']","14-Février-2021,",Monaco,62,,,TMoffi
+669,"['27’', 'D.', 'Bouanga']","14-Février-2021,",Rennes,27,,,DBouanga
+670,"['71’', 'A.', 'Nordin']","14-Février-2021,",Rennes,71,,,ANordin
+671,"['T.', 'Delaine', '17’']","14-Février-2021,",Metz,17,,,TDelaine
+672,"['33’', 'A.', 'Thomasson']","14-Février-2021,",Metz,33,,,AThomasson
+673,"['84’', 'A.', 'Thomasson']","14-Février-2021,",Metz,84,,,AThomasson
+674,"['(s.p.)', 'T.', 'Mangani', '33’']","14-Février-2021,",Angers,33,(s.p.),,spTMangani
+675,"['04’', 'M.', 'Simon']","14-Février-2021,",Angers,4,,,MSimon
+676,"['07’', 'I.', 'Louza', '(s.p.)']","14-Février-2021,",Angers,7,(s.p.),,ILouzasp
+677,"['86’', 'A.', 'Bamba']","14-Février-2021,",Angers,86,,,ABamba
+678,"['76’', 'R.', 'Ripart']","14-Février-2021,",Dijon,76,,,RRipart
+679,"['87’', 'N.', 'Eliasson']","14-Février-2021,",Dijon,87,,,NEliasson
+680,"['B.', 'Chardonnet', '53’']","19-Février-2021,",Brest,53,,,BChardonnet
+681,"['I.', 'Cardona', '74’']","19-Février-2021,",Brest,74,,,ICardona
+682,"['09’', 'L.', 'Paqueta']","19-Février-2021,",Brest,9,,,LPaqueta
+683,"['29’', 'H.', 'Aouar']","19-Février-2021,",Brest,29,,,HAouar
+684,"['44’', 'M.', 'Depay', '(s.p.)']","19-Février-2021,",Brest,44,(s.p.),,MDepaysp
+685,"['C.', 'Abi', '89’']","20-Février-2021,",Saint-Étienne,89,,,CAbi
+686,"['72’', 'E.', 'Touré']","20-Février-2021,",Saint-Étienne,72,,,ETouré
+687,"['L.', 'Blas', '50’']","20-Février-2021,",Nantes,50,,,LBlas
+688,"['69’', 'D.', 'Payet']","20-Février-2021,",Nantes,69,,,DPayet
+689,"['S.', 'Mavididi', '17’']","21-Février-2021,",Montpellier,17,,,SMavididi
+690,"['S.', 'Mavididi', '27’']","21-Février-2021,",Montpellier,27,,,SMavididi
+691,"['78’', 'S.', 'Guirassy']","21-Février-2021,",Montpellier,78,,,SGuirassy
+692,"['S.', 'Fofana', '30’']","21-Février-2021,",Lens,30,,,SFofana
+693,"['S.', 'Banza', '64’']","21-Février-2021,",Lens,64,,,SBanza
+694,"['61’', 'G.', 'Ngonda', 'Muzinga']","21-Février-2021,",Lens,61,,,GNgondaMuzinga
+695,"['(s.p.)', 'A.', 'Gouiri', '59’']","21-Février-2021,",Nice,59,(s.p.),,spAGouiri
+696,"['15’', 'B.', 'Kouyaté']","21-Février-2021,",Nice,15,,,BKouyaté
+697,"['37’', 'M.', 'Gueye']","21-Février-2021,",Nice,37,,,MGueye
+698,"['B.', 'Meling', '14’']","21-Février-2021,",Nîmes,14,,,BMeling
+699,"['R.', 'Ripart', '71’']","21-Février-2021,",Nîmes,71,,,RRipart
+700,"['J.', 'Hergault', '23’']","21-Février-2021,",Lorient,23,,,JHergault
+701,"['21’', 'A.', 'Gravillon', '(csc)']","21-Février-2021,",Lorient,21,,(csc),AGravilloncsc
+702,"['38’', 'J.', 'Fonte']","21-Février-2021,",Lorient,38,,,JFonte
+703,"['59’', 'J.', 'Ikoné']","21-Février-2021,",Lorient,59,,,JIkoné
+704,"['90’', '+1', 'D.', 'Bradaric']","21-Février-2021,",Lorient,901,,,DBradaric
+705,"['06’', 'S.', 'Diop']","21-Février-2021,",Paris-SG,6,,,SDiop
+706,"['51’', 'G.', 'Maripan']","21-Février-2021,",Paris-SG,51,,,GMaripan
+707,"['M.', 'Terrier', '39’']","26-Février-2021,",Rennes,39,,,MTerrier
+708,"['19’', 'A.', 'Gouiri', '(s.p.)']","26-Février-2021,",Rennes,19,(s.p.),,AGouirisp
+709,"['58’', 'F.', 'Daniliuc']","26-Février-2021,",Rennes,58,,,FDaniliuc
+710,"['S.', 'Kalu', '14’']","27-Février-2021,",Bordeaux,14,,,SKalu
+711,"['72’', 'T.', 'Delaine']","27-Février-2021,",Bordeaux,72,,,TDelaine
+712,"['90’', '+1', 'V.', 'Dias', 'Goncalves']","27-Février-2021,",Bordeaux,901,,,VDiasGoncalves
+713,"['06’', 'M.', 'Kean']","27-Février-2021,",Dijon,6,,,MKean
+714,"['32’', 'K.', 'Mbappé', '(s.p.)']","27-Février-2021,",Dijon,32,(s.p.),,KMbappésp
+715,"['51’', 'K.', 'Mbappé']","27-Février-2021,",Dijon,51,,,KMbappé
+716,"['82’', 'D.', 'Pereira']","27-Février-2021,",Dijon,82,,,DPereira
+717,"['S.', 'Jovetic', '76’']","28-Février-2021,",Monaco,76,,,SJovetic
+718,"['K.', 'Volland', '90’']","28-Février-2021,",Monaco,90,,,KVolland
+719,"['L.', 'Diony', '05’']","28-Février-2021,",Angers,5,,,LDiony
+720,"['(s.p.)', 'T.', 'Mangani', '10’']","28-Février-2021,",Angers,10,(s.p.),,spTMangani
+721,"['22’', 'J.', 'Clauss']","28-Février-2021,",Angers,22,,,JClauss
+722,"['90’', '+2', 'A.', 'Kalimuendo']","28-Février-2021,",Angers,902,,,AKalimuendo
+723,"['A.', 'Laurienté', '66’']","28-Février-2021,",Lorient,66,,,ALaurienté
+724,"['A.', 'Laurienté', '86’']","28-Février-2021,",Lorient,86,,,ALaurienté
+725,"['14’', 'H.', 'Moukoudi']","28-Février-2021,",Lorient,14,,,HMoukoudi
+726,"['M.', 'Koné', '76’']","28-Février-2021,",Nîmes,76,,,MKoné
+727,"['27’', 'L.', 'Blas']","28-Février-2021,",Nîmes,27,,,LBlas
+728,"['J.', 'Fonte', '86’']","28-Février-2021,",Lille,86,,,JFonte
+729,"['36’', 'L.', 'Ajorque']","28-Février-2021,",Lille,36,,,LAjorque
+730,"['(s.p.)', 'A.', 'Milik', '44’']","28-Février-2021,",Marseille,44,(s.p.),,spAMilik
+731,"['21’', 'K.', 'Toko', 'Ekambi']","28-Février-2021,",Marseille,21,,,KTokoEkambi
+732,"['H.', 'Aouar', '74’']","03-Mars-2021,",Lyon,74,,,HAouar
+733,"['44’', 'A.', 'Fulgini', '(s.p.)']","03-Mars-2021,",Metz,44,(s.p.),,AFulginisp
+734,"['H.', 'Moukoudi', '40’']","03-Mars-2021,",Saint-Étienne,40,,,HMoukoudi
+735,"['(s.p.)', 'D.', 'Bouanga', '90’', '+6']","03-Mars-2021,",Saint-Étienne,906,(s.p.),,spDBouanga
+736,"['20’', 'F.', 'Sotoca', '(s.p.)']","03-Mars-2021,",Saint-Étienne,20,(s.p.),,FSotocasp
+737,"['25’', 'A.', 'Kalimuendo']","03-Mars-2021,",Saint-Étienne,25,,,AKalimuendo
+738,"['90’', '+3', 'D.', 'Pereira', 'Da', 'Costa']","03-Mars-2021,",Saint-Étienne,903,,,DPereiraDaCosta
+739,"['A.', 'Gouiri', '04’']","03-Mars-2021,",Nice,4,,,AGouiri
+740,"['A.', 'Claude-Maurice', '75’']","03-Mars-2021,",Nice,75,,,AClaudeMaurice
+741,"['50’', 'L.', 'Landre']","03-Mars-2021,",Nice,50,,,LLandre
+742,"['F.', 'Honorat', '17’']","03-Mars-2021,",Brest,17,,,FHonorat
+743,"['S.', 'Mounié', '27’']","03-Mars-2021,",Brest,27,,,SMounié
+744,"['I.', 'Cardona', '40’']","03-Mars-2021,",Brest,40,,,ICardona
+745,"['29’', 'R.', 'Assalé']","03-Mars-2021,",Brest,29,,,RAssalé
+746,"['J.', 'David', '90’']","03-Mars-2021,",Lille,90,,,JDavid
+747,"['J.', 'David', '90’', '+2']","03-Mars-2021,",Lille,902,,,JDavid
+748,"['20’', 'P.', 'Sarabia']","03-Mars-2021,",Bordeaux,20,,,PSarabia
+749,"['F.', 'Guilbert', '90’', '+1']","03-Mars-2021,",Strasbourg,901,,,FGuilbert
+750,"['S.', 'Mavididi', '28’']","03-Mars-2021,",Montpellier,28,,,SMavididi
+751,"['09’', 'A.', 'Grbic', '(s.p.)']","03-Mars-2021,",Montpellier,9,(s.p.),,AGrbicsp
+752,"['M.', 'Simon', '14’']","03-Mars-2021,",Nantes,14,,,MSimon
+753,"['39’', 'G.', 'Konan']","03-Mars-2021,",Nantes,39,,,GKonan
+754,"['89’', 'Y.', 'Abdelhamid']","03-Mars-2021,",Nantes,89,,,YAbdelhamid
+755,"['M.', 'Cafaro', '33’']","12-Mars-2021,",Reims,33,,,MCafaro
+756,"['90’', '+2', 'T.', 'Kadewere']","12-Mars-2021,",Reims,902,,,TKadewere
+757,"['53’', 'W.', 'Khazri']","13-Mars-2021,",Angers,53,,,WKhazri
+758,"['A.', 'Milik', '45’', '+1']","13-Mars-2021,",Marseille,451,,,AMilik
+759,"['F.', 'Thauvin', '88’']","13-Mars-2021,",Marseille,88,,,FThauvin
+760,"['M.', 'Cuisance', '90’', '+2']","13-Mars-2021,",Marseille,902,,,MCuisance
+761,"['71’', 'L.', 'Brassier']","13-Mars-2021,",Marseille,71,,,LBrassier
+762,"['M.', 'Koné', '62’']","14-Mars-2021,",Nîmes,62,,,MKoné
+763,"['78’', 'A.', 'Delort']","14-Mars-2021,",Nîmes,78,,,ADelort
+764,"['J.', 'Clauss', '13’']","14-Mars-2021,",Lens,13,,,JClauss
+765,"['Y.', 'Cahuzac', '36’']","14-Mars-2021,",Lens,36,,,YCahuzac
+766,"['27’', 'V.', 'Dias', 'Goncalves', '(s.p.)']","14-Mars-2021,",Lens,27,(s.p.),,VDiasGoncalvessp
+767,"['57’', 'T.', 'Delaine']","14-Mars-2021,",Lens,57,,,TDelaine
+768,"['B.', 'Bourigeaud', '25’']","14-Mars-2021,",Rennes,25,,,BBourigeaud
+769,"['Y.', 'Wissa', '66’']","14-Mars-2021,",Lorient,66,,,YWissa
+770,"['58’', 'M.', 'Maolida']","14-Mars-2021,",Lorient,58,,,MMaolida
+771,"['M.', 'Konaté', '90’']","14-Mars-2021,",Dijon,90,,,MKonaté
+772,"['33’', 'U.', 'Hwang']","14-Mars-2021,",Dijon,33,,,UHwang
+773,"['45’', 'U.', 'Hwang']","14-Mars-2021,",Dijon,45,,,UHwang
+774,"['50’', 'N.', 'De', 'Préville']","14-Mars-2021,",Dijon,50,,,NDePréville
+775,"['J.', 'Draxler', '42’']","14-Mars-2021,",Paris-SG,42,,,JDraxler
+776,"['59’', 'R.', 'Kolo', 'Muani']","14-Mars-2021,",Paris-SG,59,,,RKoloMuani
+777,"['71’', 'M.', 'Simon']","14-Mars-2021,",Paris-SG,71,,,MSimon
+778,"['13’', 'S.', 'Jovetic']","19-Mars-2021,",Saint-Étienne,13,,,SJovetic
+779,"['55’', 'A.', 'Tchouaméni']","19-Mars-2021,",Saint-Étienne,55,,,ATchouaméni
+780,"['65’', 'S.', 'Diop']","19-Mars-2021,",Saint-Étienne,65,,,SDiop
+781,"['76’', 'K.', 'Diatta']","19-Mars-2021,",Saint-Étienne,76,,,KDiatta
+782,"['P.', 'Yade', '90’']","20-Mars-2021,",Metz,90,,,PYade
+783,"['18’', 'J.', 'Doku']","20-Mars-2021,",Metz,18,,,JDoku
+784,"['38’', 'M.', 'Terrier', '(s.p.)']","20-Mars-2021,",Metz,38,(s.p.),,MTerriersp
+785,"['88’', 'S.', 'Guirassy']","20-Mars-2021,",Metz,88,,,SGuirassy
+786,"['K.', 'Thuram', '34’']","20-Mars-2021,",Nice,34,,,KThuram
+787,"['A.', 'Gouiri', '74’']","20-Mars-2021,",Nice,74,,,AGouiri
+788,"['A.', 'Claude-Maurice', '90’', '+1']","20-Mars-2021,",Nice,901,,,AClaudeMaurice
+789,"['J.', 'Bellegarde', '20’']","21-Mars-2021,",Strasbourg,20,,,JBellegarde
+790,"['06’', 'M.', 'Haïdara']","21-Mars-2021,",Strasbourg,6,,,MHaïdara
+791,"['40’', 'S.', 'Fofana']","21-Mars-2021,",Strasbourg,40,,,SFofana
+792,"['J.', 'Sambia', '35’']","21-Mars-2021,",Montpellier,35,,,JSambia
+793,"['G.', 'Laborde', '58’']","21-Mars-2021,",Montpellier,58,,,GLaborde
+794,"['S.', 'Mavididi', '69’']","21-Mars-2021,",Montpellier,69,,,SMavididi
+795,"['28’', 'U.', 'Hwang']","21-Mars-2021,",Montpellier,28,,,UHwang
+796,"['50’', 'B.', 'Dia']","21-Mars-2021,",Dijon,50,,,BDia
+797,"['R.', 'Kolo', 'Muani', '02’']","21-Mars-2021,",Nantes,2,,,RKoloMuani
+798,"['87’', 'A.', 'Laurienté']","21-Mars-2021,",Nantes,87,,,ALaurienté
+799,"['Xeka', '20’']","21-Mars-2021,",Lille,20,,,Xeka
+800,"['12’', 'M.', 'Koné']","21-Mars-2021,",Lille,12,,,MKoné
+801,"['45’', 'R.', 'Ripart']","21-Mars-2021,",Lille,45,,,RRipart
+802,"['I.', 'Slimani', '62’']","21-Mars-2021,",Lyon,62,,,ISlimani
+803,"['M.', 'Cornet', '81’']","21-Mars-2021,",Lyon,81,,,MCornet
+804,"['15’', 'K.', 'Mbappé']","21-Mars-2021,",Lyon,15,,,KMbappé
+805,"['32’', 'D.', 'Pereira']","21-Mars-2021,",Lyon,32,,,DPereira
+806,"['47’', 'A.', 'Di', 'Maria']","21-Mars-2021,",Lyon,47,,,ADiMaria
+807,"['52’', 'K.', 'Mbappé']","21-Mars-2021,",Lyon,52,,,KMbappé
+808,"['(s.p.)', 'F.', 'Fabregas', '50’']","03-Avril-2021,",Monaco,50,(s.p.),,spFFabregas
+809,"['K.', 'Volland', '52’']","03-Avril-2021,",Monaco,52,,,KVolland
+810,"['W.', 'Ben', 'Yedder', '77’']","03-Avril-2021,",Monaco,77,,,WBenYedder
+811,"['(s.p.)', 'W.', 'Ben', 'Yedder', '89’']","03-Avril-2021,",Monaco,89,(s.p.),,spWBenYedder
+812,"['20’', 'J.', 'David']","03-Avril-2021,",Paris-SG,20,,,JDavid
+813,"['J.', 'Clauss', '65’']","03-Avril-2021,",Lens,65,,,JClauss
+814,"['81’', 'L.', 'Paqueta']","03-Avril-2021,",Lens,81,,,LPaqueta
+815,"['S.', 'Bahoken', '72’']","04-Avril-2021,",Angers,72,,,SBahoken
+816,"['47’', 'S.', 'Mavididi']","04-Avril-2021,",Angers,47,,,SMavididi
+817,"['B.', 'Dia', '60’']","04-Avril-2021,",Reims,60,,,BDia
+818,"['G.', 'Konan', '81’']","04-Avril-2021,",Reims,81,,,GKonan
+819,"['75’', 'S.', 'Guirassy', '(s.p.)']","04-Avril-2021,",Reims,75,(s.p.),,SGuirassysp
+820,"['83’', 'S.', 'Guirassy']","04-Avril-2021,",Reims,83,,,SGuirassy
+821,"['A.', 'Touré', '32’']","04-Avril-2021,",Nantes,32,,,ATouré
+822,"['11’', 'K.', 'Dolberg', '(s.p.)']","04-Avril-2021,",Nantes,11,(s.p.),,KDolbergsp
+823,"['29’', 'K.', 'Dolberg']","04-Avril-2021,",Nantes,29,,,KDolberg
+824,"['P.', 'Baysse', '36’']","04-Avril-2021,",Bordeaux,36,,,PBaysse
+825,"['(s.p.)', 'U.', 'Hwang', '45’', '+2']","04-Avril-2021,",Bordeaux,452,(s.p.),,spUHwang
+826,"['06’', 'L.', 'Koné']","04-Avril-2021,",Bordeaux,6,,,LKoné
+827,"['21’', 'H.', 'Diallo']","04-Avril-2021,",Bordeaux,21,,,HDiallo
+828,"['30’', 'L.', 'Ajorque', '(s.p.)']","04-Avril-2021,",Bordeaux,30,(s.p.),,LAjorquesp
+829,"['L.', 'Abergel', '45’']","04-Avril-2021,",Lorient,45,,,LAbergel
+830,"['23’', 'W.', 'Khazri']","04-Avril-2021,",Nîmes,23,,,WKhazri
+831,"['66’', 'D.', 'Bouanga']","04-Avril-2021,",Nîmes,66,,,DBouanga
+832,"['L.', 'Balerdi', '45’', '+1']","04-Avril-2021,",Marseille,451,,,LBalerdi
+833,"['A.', 'Gonzalez', '79’']","04-Avril-2021,",Marseille,79,,,AGonzalez
+834,"['60’', 'B.', 'Yilmaz']","09-Avril-2021,",Metz,60,,,BYilmaz
+835,"['89’', 'M.', 'Çelik']","09-Avril-2021,",Metz,89,,,MÇelik
+836,"['M.', 'Sahi', '63’']","10-Avril-2021,",Strasbourg,63,,,MSahi
+837,"['16’', 'K.', 'Mbappé']","10-Avril-2021,",Strasbourg,16,,,KMbappé
+838,"['27’', 'P.', 'Sarabia']","10-Avril-2021,",Strasbourg,27,,,PSarabia
+839,"['45’', 'M.', 'Kean']","10-Avril-2021,",Strasbourg,45,,,MKean
+840,"['79’', 'L.', 'Paredes']","10-Avril-2021,",Strasbourg,79,,,LParedes
+841,"['A.', 'Delort', '01’']","10-Avril-2021,",Montpellier,1,,,ADelort
+842,"['G.', 'Laborde', '47’']","10-Avril-2021,",Montpellier,47,,,GLaborde
+843,"['G.', 'Laborde', '90’', '+3']","10-Avril-2021,",Montpellier,903,,,GLaborde
+844,"['43’', 'A.', 'Milik']","10-Avril-2021,",Montpellier,43,,,AMilik
+845,"['45’', '+2', 'P.', 'Gueye']","10-Avril-2021,",Montpellier,452,,,PGueye
+846,"['71’', 'L.', 'Perrin']","10-Avril-2021,",Montpellier,71,,,LPerrin
+847,"['M.', 'Terrier', '52’']","11-Avril-2021,",Rennes,52,,,MTerrier
+848,"['(s.p.)', 'G.', 'Kakuta', '16’']","11-Avril-2021,",Lens,16,(s.p.),,spGKakuta
+849,"['C.', 'Jean', '39’']","11-Avril-2021,",Lens,39,,,CJean
+850,"['A.', 'Kalimuendo', '55’']","11-Avril-2021,",Lens,55,,,AKalimuendo
+851,"['(s.p.)', 'S.', 'Banza', '88’']","11-Avril-2021,",Lens,88,(s.p.),,spSBanza
+852,"['29’', 'T.', 'Moffi']","11-Avril-2021,",Lens,29,,,TMoffi
+853,"['(s.p.)', 'W.', 'Khazri', '19’']","11-Avril-2021,",Saint-Étienne,19,(s.p.),,spWKhazri
+854,"['W.', 'Khazri', '23’']","11-Avril-2021,",Saint-Étienne,23,,,WKhazri
+855,"['(s.p.)', 'W.', 'Khazri', '71’']","11-Avril-2021,",Saint-Étienne,71,(s.p.),,spWKhazri
+856,"['Z.', 'Youssouf', '81’']","11-Avril-2021,",Saint-Étienne,81,,,ZYoussouf
+857,"['09’', 'U.', 'Hwang', '(s.p.)']","11-Avril-2021,",Saint-Étienne,9,(s.p.),,UHwangsp
+858,"['B.', 'Chardonnet', '26’']","11-Avril-2021,",Brest,26,,,BChardonnet
+859,"['11’', 'M.', 'Koné']","11-Avril-2021,",Brest,11,,,MKoné
+860,"['S.', 'Jovetic', '49’']","11-Avril-2021,",Monaco,49,,,SJovetic
+861,"['W.', 'Ben', 'Yedder', '63’']","11-Avril-2021,",Monaco,63,,,WBenYedder
+862,"['(s.p.)', 'W.', 'Ben', 'Yedder', '89’']","11-Avril-2021,",Monaco,89,(s.p.),,spWBenYedder
+863,"['M.', 'Depay', '21’']","11-Avril-2021,",Lyon,21,,,MDepay
+864,"['L.', 'Paqueta', '41’']","11-Avril-2021,",Lyon,41,,,LPaqueta
+865,"['M.', 'Depay', '83’']","11-Avril-2021,",Lyon,83,,,MDepay
+866,"['L.', 'Araujo', '85’']","16-Avril-2021,",Lille,85,,,LAraujo
+867,"['21’', 'A.', 'Delort']","16-Avril-2021,",Lille,21,,,ADelort
+868,"['45’', '+1', 'J.', 'Doku']","17-Avril-2021,",Angers,451,,,JDoku
+869,"['63’', 'M.', 'Terrier']","17-Avril-2021,",Angers,63,,,MTerrier
+870,"['90’', '+1', 'S.', 'Guirassy']","17-Avril-2021,",Angers,901,,,SGuirassy
+871,"['D.', 'Payet', '53’']","17-Avril-2021,",Marseille,53,,,DPayet
+872,"['P.', 'Lirola', '56’']","17-Avril-2021,",Marseille,56,,,PLirola
+873,"['P.', 'Lirola', '90’', '+1']","17-Avril-2021,",Marseille,901,,,PLirola
+874,"['19’', 'T.', 'Moffi']","17-Avril-2021,",Marseille,19,,,TMoffi
+875,"['70’', 'T.', 'Moffi']","17-Avril-2021,",Marseille,70,,,TMoffi
+876,"['K.', 'Mbappé', '79’']","18-Avril-2021,",Paris-SG,79,,,KMbappé
+877,"['(s.p.)', 'K.', 'Mbappé', '87’']","18-Avril-2021,",Paris-SG,87,(s.p.),,spKMbappé
+878,"['M.', 'Icardi', '90’', '+5']","18-Avril-2021,",Paris-SG,905,,,MIcardi
+879,"['78’', 'D.', 'Bouanga']","18-Avril-2021,",Paris-SG,78,,,DBouanga
+880,"['90’', '+2', 'R.', 'Hamouma']","18-Avril-2021,",Paris-SG,902,,,RHamouma
+881,"['(csc)', 'Y.', 'Cahuzac', '37’']","18-Avril-2021,",Brest,37,,(csc),cscYCahuzac
+882,"['72’', 'G.', 'Kakuta', '(s.p.)']","18-Avril-2021,",Brest,72,(s.p.),,GKakutasp
+883,"['F.', 'Chafik', '49’']","18-Avril-2021,",Dijon,49,,,FChafik
+884,"['(s.p.)', 'Y.', 'Benzia', '77’']","18-Avril-2021,",Dijon,77,(s.p.),,spYBenzia
+885,"['(s.p.)', 'R.', 'Ripart', '55’']","18-Avril-2021,",Nîmes,55,(s.p.),,spRRipart
+886,"['82’', 'D.', 'Liénard']","18-Avril-2021,",Nîmes,82,,,DLiénard
+887,"['29’', 'K.', 'Volland']","18-Avril-2021,",Bordeaux,29,,,KVolland
+888,"['47’', 'G.', 'Martins']","18-Avril-2021,",Bordeaux,47,,,GMartins
+889,"['90’', 'S.', 'Jovetic']","18-Avril-2021,",Bordeaux,90,,,SJovetic
+890,"['N.', 'Pallois', '60’']","18-Avril-2021,",Nantes,60,,,NPallois
+891,"['05’', 'M.', 'Depay']","18-Avril-2021,",Nantes,5,,,MDepay
+892,"['37’', 'M.', 'Depay', '(s.p.)']","18-Avril-2021,",Nantes,37,(s.p.),,MDepaysp
+893,"['N.', 'Mbuku', '38’']","23-Avril-2021,",Reims,38,,,NMbuku
+894,"['41’', 'D.', 'Payet']","23-Avril-2021,",Reims,41,,,DPayet
+895,"['45’', '+2', 'A.', 'Milik']","23-Avril-2021,",Reims,452,,,AMilik
+896,"['76’', 'D.', 'Payet']","23-Avril-2021,",Reims,76,,,DPayet
+897,"['W.', 'Khazri', '11’']","24-Avril-2021,",Saint-Étienne,11,,,WKhazri
+898,"['66’', 'G.', 'Charbonnier']","24-Avril-2021,",Saint-Étienne,66,,,GCharbonnier
+899,"['79’', 'G.', 'Charbonnier']","24-Avril-2021,",Saint-Étienne,79,,,GCharbonnier
+900,"['F.', 'Centonze', '46’']","24-Avril-2021,",Metz,46,,,FCentonze
+901,"['04’', 'K.', 'Mbappé']","24-Avril-2021,",Metz,4,,,KMbappé
+902,"['59’', 'K.', 'Mbappé']","24-Avril-2021,",Metz,59,,,KMbappé
+903,"['89’', 'M.', 'Icardi', '(s.p.)']","24-Avril-2021,",Metz,89,(s.p.),,MIcardisp
+904,"['H.', 'Boudaoui', '06’']","25-Avril-2021,",Nice,6,,,HBoudaoui
+905,"['J.', 'Todibo', '39’']","25-Avril-2021,",Nice,39,,,JTodibo
+906,"['A.', 'Claude-Maurice', '40’']","25-Avril-2021,",Nice,40,,,AClaudeMaurice
+907,"['03’', 'G.', 'Laborde']","25-Avril-2021,",Nice,3,,,GLaborde
+908,"['I.', 'Ganago', '17’']","25-Avril-2021,",Lens,17,,,IGanago
+909,"['M.', 'Haïdara', '76’']","25-Avril-2021,",Lens,76,,,MHaïdara
+910,"['52’', 'Z.', 'Ferhat', '(s.p.)']","25-Avril-2021,",Lens,52,(s.p.),,ZFerhatsp
+911,"['M.', 'Terrier', '15’']","25-Avril-2021,",Rennes,15,,,MTerrier
+912,"['M.', 'Terrier', '70’']","25-Avril-2021,",Rennes,70,,,MTerrier
+913,"['F.', 'Tait', '71’']","25-Avril-2021,",Rennes,71,,,FTait
+914,"['G.', 'Nyamsi', '80’']","25-Avril-2021,",Rennes,80,,,GNyamsi
+915,"['C.', 'Grenier', '90’', '+1']","25-Avril-2021,",Rennes,901,,,CGrenier
+916,"['09’', 'Y.', 'Benzia', '(s.p.)']","25-Avril-2021,",Rennes,9,(s.p.),,YBenziasp
+917,"['L.', 'Ajorque', '43’']","25-Avril-2021,",Strasbourg,43,,,LAjorque
+918,"['53’', 'J.', 'Castelletto']","25-Avril-2021,",Strasbourg,53,,,JCastelletto
+919,"['77’', 'L.', 'Blas']","25-Avril-2021,",Strasbourg,77,,,LBlas
+920,"['Y.', 'Wissa', '18’']","25-Avril-2021,",Lorient,18,,,YWissa
+921,"['T.', 'Moffi', '20’']","25-Avril-2021,",Lorient,20,,,TMoffi
+922,"['T.', 'Moffi', '43’']","25-Avril-2021,",Lorient,43,,,TMoffi
+923,"['T.', 'Moffi', '80’']","25-Avril-2021,",Lorient,80,,,TMoffi
+924,"['83’', 'I.', 'Sissokho']","25-Avril-2021,",Lorient,83,,,ISissokho
+925,"['79’', 'W.', 'Ben', 'Yedder']","25-Avril-2021,",Angers,79,,,WBenYedder
+926,"['I.', 'Slimani', '20’']","25-Avril-2021,",Lyon,20,,,ISlimani
+927,"['(csc)', 'J.', 'Fonte', '35’']","25-Avril-2021,",Lyon,35,,(csc),cscJFonte
+928,"['45’', '+1', 'B.', 'Yilmaz']","25-Avril-2021,",Lyon,451,,,BYilmaz
+929,"['60’', 'J.', 'David']","25-Avril-2021,",Lyon,60,,,JDavid
+930,"['85’', 'B.', 'Yilmaz']","25-Avril-2021,",Lyon,85,,,BYilmaz
+931,"['D.', 'Benedetto', '86’']","30-Avril-2021,",Marseille,86,,,DBenedetto
+932,"['73’', 'S.', 'Mitrovic']","30-Avril-2021,",Marseille,73,,,SMitrovic
+933,"['Neymar', '33’']","01-Mai-2021,",Paris-SG,33,,,Neymar
+934,"['Marquinhos', '59’']","01-Mai-2021,",Paris-SG,59,,,Marquinhos
+935,"['61’', 'I.', 'Ganago']","01-Mai-2021,",Paris-SG,61,,,IGanago
+936,"['B.', 'Yilmaz', '13’']","01-Mai-2021,",Lille,13,,,BYilmaz
+937,"['M.', 'Çelik', '56’']","01-Mai-2021,",Lille,56,,,MÇelik
+938,"['S.', 'Mara', '11’']","02-Mai-2021,",Bordeaux,11,,,SMara
+939,"['M.', 'Baldé', '48’']","02-Mai-2021,",Dijon,48,,,MBaldé
+940,"['37’', 'M.', 'Gueye']","02-Mai-2021,",Dijon,37,,,MGueye
+941,"['42’', 'P.', 'Sarr']","02-Mai-2021,",Dijon,42,,,PSarr
+942,"['71’', 'F.', 'Chafik', '(csc)']","02-Mai-2021,",Dijon,71,,(csc),FChafikcsc
+943,"['82’', 'V.', 'Dias', 'Goncalves']","02-Mai-2021,",Dijon,82,,,VDiasGoncalves
+944,"['85’', 'D.', 'Bronn']","02-Mai-2021,",Dijon,85,,,DBronn
+945,"['R.', 'Ripart', '47’']","02-Mai-2021,",Nîmes,47,,,RRipart
+946,"['M.', 'Koné', '72’']","02-Mai-2021,",Nîmes,72,,,MKoné
+947,"['30’', 'N.', 'Mbuku']","02-Mai-2021,",Nîmes,30,,,NMbuku
+948,"['81’', 'A.', 'Flips']","02-Mai-2021,",Nîmes,81,,,AFlips
+949,"['(s.p.)', 'Y.', 'Wissa', '44’']","02-Mai-2021,",Lorient,44,(s.p.),,spYWissa
+950,"['F.', 'Lemoine', '48’']","02-Mai-2021,",Lorient,48,,,FLemoine
+951,"['R.', 'Faivre', '83’']","02-Mai-2021,",Brest,83,,,RFaivre
+952,"['15’', 'M.', 'Simon']","02-Mai-2021,",Brest,15,,,MSimon
+953,"['27’', 'L.', 'Blas']","02-Mai-2021,",Brest,27,,,LBlas
+954,"['56’', 'I.', 'Louza']","02-Mai-2021,",Brest,56,,,ILouza
+955,"['62’', 'K.', 'Coulibaly', '(s.p.)']","02-Mai-2021,",Brest,62,(s.p.),,KCoulibalysp
+956,"['A.', 'Delort', '06’']","02-Mai-2021,",Montpellier,6,,,ADelort
+957,"['16’', 'R.', 'Hamouma']","02-Mai-2021,",Montpellier,16,,,RHamouma
+958,"['50’', 'M.', 'Debuchy']","02-Mai-2021,",Montpellier,50,,,MDebuchy
+959,"['K.', 'Volland', '25’']","02-Mai-2021,",Monaco,25,,,KVolland
+960,"['(s.p.)', 'W.', 'Ben', 'Yedder', '86’']","02-Mai-2021,",Monaco,86,(s.p.),,spWBenYedder
+961,"['57’', 'M.', 'Depay']","02-Mai-2021,",Monaco,57,,,MDepay
+962,"['77’', 'Marcelo']","02-Mai-2021,",Monaco,77,,,Marcelo
+963,"['89’', 'R.', 'Cherki']","02-Mai-2021,",Monaco,89,,,RCherki
+964,"['04’', 'B.', 'Yilmaz', '(s.p.)']","07-Mai-2021,",Lens,4,(s.p.),,BYilmazsp
+965,"['40’', 'B.', 'Yilmaz']","07-Mai-2021,",Lens,40,,,BYilmaz
+966,"['60’', 'J.', 'David']","07-Mai-2021,",Lens,60,,,JDavid
+967,"['K.', 'Coulibaly', '19’']","08-Mai-2021,",Nantes,19,,,KCoulibaly
+968,"['(s.p.)', 'I.', 'Louza', '51’']","08-Mai-2021,",Nantes,51,(s.p.),,spILouza
+969,"['R.', 'Kolo', 'Muani', '70’']","08-Mai-2021,",Nantes,70,,,RKoloMuani
+970,"['H.', 'Aouar', '53’']","08-Mai-2021,",Lyon,53,,,HAouar
+971,"['L.', 'Paqueta', '65’']","08-Mai-2021,",Lyon,65,,,LPaqueta
+972,"['(s.p.)', 'B.', 'Guimaraes', '71’']","08-Mai-2021,",Lyon,71,(s.p.),,spBGuimaraes
+973,"['B.', 'Guimaraes', '77’']","08-Mai-2021,",Lyon,77,,,BGuimaraes
+974,"['83’', 'T.', 'Monconduit']","08-Mai-2021,",Lyon,83,,,TMonconduit
+975,"['A.', 'Nordin', '43’']","09-Mai-2021,",Saint-Étienne,43,,,ANordin
+976,"['L.', 'Ajorque', '69’']","09-Mai-2021,",Strasbourg,69,,,LAjorque
+977,"['K.', 'Zohi', '90’', '+5']","09-Mai-2021,",Strasbourg,905,,,KZohi
+978,"['36’', 'G.', 'Laborde']","09-Mai-2021,",Strasbourg,36,,,GLaborde
+979,"['46’', 'A.', 'Delort']","09-Mai-2021,",Strasbourg,46,,,ADelort
+980,"['50’', 'G.', 'Laborde']","09-Mai-2021,",Strasbourg,50,,,GLaborde
+981,"['61’', 'L.', 'Fomba']","09-Mai-2021,",Metz,61,,,LFomba
+982,"['67’', 'R.', 'Ripart', '(s.p.)']","09-Mai-2021,",Metz,67,(s.p.),,RRipartsp
+983,"['89’', 'Z.', 'Ferhat']","09-Mai-2021,",Metz,89,,,ZFerhat
+984,"['R.', 'Lopes', '38’']","09-Mai-2021,",Nice,38,,,RLopes
+985,"['H.', 'Boudaoui', '61’']","09-Mai-2021,",Nice,61,,,HBoudaoui
+986,"['H.', 'Kamara', '89’']","09-Mai-2021,",Nice,89,,,HKamara
+987,"['04’', 'S.', 'Mounié']","09-Mai-2021,",Nice,4,,,SMounié
+988,"['43’', 'S.', 'Mounié']","09-Mai-2021,",Nice,43,,,SMounié
+989,"['A.', 'Fulgini', '07’']","09-Mai-2021,",Angers,7,,,AFulgini
+990,"['F.', 'El-Melali', '50’']","09-Mai-2021,",Angers,50,,,FElMelali
+991,"['L.', 'Diony', '89’']","09-Mai-2021,",Angers,89,,,LDiony
+992,"['20’', 'E.', 'Matazo']","09-Mai-2021,",Reims,20,,,EMatazo
+993,"['S.', 'Guirassy', '70’']","09-Mai-2021,",Rennes,70,,,SGuirassy
+994,"['45’', '+6', 'Neymar', '(s.p.)']","09-Mai-2021,",Rennes,456,(s.p.),,Neymarsp
+995,"['(s.p.)', 'Neymar', '13’']","16-Mai-2021,",Paris-SG,13,(s.p.),,spNeymar
+996,"['K.', 'Mbappé', '24’']","16-Mai-2021,",Paris-SG,24,,,KMbappé
+997,"['Marquinhos', '68’']","16-Mai-2021,",Paris-SG,68,,,Marquinhos
+998,"['M.', 'Kean', '89’']","16-Mai-2021,",Paris-SG,89,,,MKean
+999,"['W.', 'Ben', 'Yedder', '16’']","16-Mai-2021,",Monaco,16,,,WBenYedder
+1000,"['A.', 'Golovine', '29’']","16-Mai-2021,",Monaco,29,,,AGolovine
+1001,"['68’', 'A.', 'Disasi', '(csc)']","16-Mai-2021,",Monaco,68,,(csc),ADisasicsc
+1002,"['M.', 'Koné', '05’']","16-Mai-2021,",Nîmes,5,,,MKoné
+1003,"['M.', 'Koné', '62’']","16-Mai-2021,",Nîmes,62,,,MKoné
+1004,"['08’', 'L.', 'Paqueta']","16-Mai-2021,",Nîmes,8,,,LPaqueta
+1005,"['21’', 'M.', 'Depay']","16-Mai-2021,",Nîmes,21,,,MDepay
+1006,"['24’', 'L.', 'Paqueta']","16-Mai-2021,",Nîmes,24,,,LPaqueta
+1007,"['55’', 'H.', 'Aouar']","16-Mai-2021,",Nîmes,55,,,HAouar
+1008,"['87’', 'I.', 'Slimani']","16-Mai-2021,",Nîmes,87,,,ISlimani
+1009,"['A.', 'Milik', '09’']","16-Mai-2021,",Marseille,9,,,AMilik
+1010,"['A.', 'Milik', '48’']","16-Mai-2021,",Marseille,48,,,AMilik
+1011,"['(s.p.)', 'A.', 'Milik', '90’', '+5']","16-Mai-2021,",Marseille,905,(s.p.),,spAMilik
+1012,"['57’', 'M.', 'Pereira', 'Lage']","16-Mai-2021,",Marseille,57,,,MPereiraLage
+1013,"['87’', 'R.', 'Thomas']","16-Mai-2021,",Marseille,87,,,RThomas
+1014,"['(s.p.)', 'U.', 'Hwang', '32’']","16-Mai-2021,",Bordeaux,32,(s.p.),,spUHwang
+1015,"['Y.', 'Sabaly', '88’']","16-Mai-2021,",Bordeaux,88,,,YSabaly
+1016,"['M.', 'Zerkane', '90’', '+1']","16-Mai-2021,",Bordeaux,901,,,MZerkane
+1017,"['02’', 'L.', 'Ajorque']","16-Mai-2021,",Nice,2,,,LAjorque
+1018,"['66’', 'L.', 'Ajorque']","16-Mai-2021,",Nice,66,,,LAjorque
+1019,"['(s.p.)', 'Y.', 'Wissa', '31’']","16-Mai-2021,",Lorient,31,(s.p.),,spYWissa
+1020,"['J.', 'Hergault', '73’']","16-Mai-2021,",Lorient,73,,,JHergault
+1021,"['72’', 'B.', 'Traoré']","16-Mai-2021,",Lorient,72,,,BTraoré
+1022,"['06’', 'K.', 'Coulibaly']","16-Mai-2021,",Dijon,6,,,KCoulibaly
+1023,"['32’', 'R.', 'Kolo', 'Muani']","16-Mai-2021,",Dijon,32,,,RKoloMuani
+1024,"['90’', '+1', 'L.', 'Blas']","16-Mai-2021,",Dijon,901,,,LBlas
+1025,"['90’', '+3', 'R.', 'Kolo', 'Muani']","16-Mai-2021,",Dijon,903,,,RKoloMuani
+1026,"['A.', 'Fulgini', '90’', '+2']","23-Mai-2021,",Angers,902,,,AFulgini
+1027,"['10’', 'J.', 'David']","23-Mai-2021,",Angers,10,,,JDavid
+1028,"['45’', '+1', 'B.', 'Yilmaz', '(s.p.)']","23-Mai-2021,",Angers,451,(s.p.),,BYilmazsp
+1029,"['37’', 'R.', 'Faivre', '(csc)']","23-Mai-2021,",Brest,37,,(csc),RFaivrecsc
+1030,"['71’', 'K.', 'Mbappé']","23-Mai-2021,",Brest,71,,,KMbappé
+1031,"['K.', 'Toko', 'Ekambi', '14’']","23-Mai-2021,",Lyon,14,,,KTokoEkambi
+1032,"['K.', 'Toko', 'Ekambi', '40’']","23-Mai-2021,",Lyon,40,,,KTokoEkambi
+1033,"['29’', 'K.', 'Dolberg']","23-Mai-2021,",Lyon,29,,,KDolberg
+1034,"['50’', 'H.', 'Kamara']","23-Mai-2021,",Lyon,50,,,HKamara
+1035,"['57’', 'W.', 'Saliba']","23-Mai-2021,",Lyon,57,,,WSaliba
+1036,"['(s.p.)', 'F.', 'Boulaya', '90’', '+7']","23-Mai-2021,",Metz,907,(s.p.),,spFBoulaya
+1037,"['90’', '+13', 'A.', 'Milik', '(s.p.)']","23-Mai-2021,",Metz,9013,(s.p.),,AMiliksp
+1038,"['S.', 'Guirassy', '25’']","23-Mai-2021,",Rennes,25,,,SGuirassy
+1039,"['B.', 'Bourigeaud', '51’']","23-Mai-2021,",Rennes,51,,,BBourigeaud
+1040,"['R.', 'Kolo', 'Muani', '33’']","23-Mai-2021,",Nantes,33,,,RKoloMuani
+1041,"['31’', 'G.', 'Laborde']","23-Mai-2021,",Nantes,31,,,GLaborde
+1042,"['76’', 'A.', 'Delort']","23-Mai-2021,",Nantes,76,,,ADelort
+1043,"['39’', 'A.', 'Kamara']","23-Mai-2021,",Saint-Étienne,39,,,AKamara
+1044,"['E.', 'Touré', '15’']","23-Mai-2021,",Reims,15,,,ETouré
+1045,"['44’', 'Y.', 'Adli']","23-Mai-2021,",Reims,44,,,YAdli
+1046,"['58’', 'E.', 'Kwateng']","23-Mai-2021,",Reims,58,,,EKwateng
+1047,"['H.', 'Diallo', '18’']","23-Mai-2021,",Strasbourg,18,,,HDiallo
+1048,"['55’', 'T.', 'Chalobah']","23-Mai-2021,",Strasbourg,55,,,TChalobah
